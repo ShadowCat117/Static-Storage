@@ -3,7 +3,14 @@
     {
       "id": 1,
       "name": "Meteor",
-      "formattedName": "§#87dd47ff§lMeteor",
+      "formattedName": [
+        {
+          "text": "Meteor",
+          "bold": true,
+          "font": "default",
+          "color": "#87dd47ff"
+        }
+      ],
       "description": [
         [
           {
@@ -268,7 +275,14 @@
     {
       "id": 2,
       "name": "Wand Proficiency I",
-      "formattedName": "§f§lWand Proficiency I",
+      "formattedName": [
+        {
+          "text": "Wand Proficiency I",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -375,7 +389,14 @@
     {
       "id": 3,
       "name": "Cheaper Meteor",
-      "formattedName": "§f§lCheaper Meteor",
+      "formattedName": [
+        {
+          "text": "Cheaper Meteor",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -450,7 +471,14 @@
     {
       "id": 4,
       "name": "Shooting Star",
-      "formattedName": "§#ffe14dff§lShooting Star",
+      "formattedName": [
+        {
+          "text": "Shooting Star",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -505,7 +533,14 @@
     {
       "id": 5,
       "name": "Wand Proficiency II",
-      "formattedName": "§#ffe14dff§lWand Proficiency II",
+      "formattedName": [
+        {
+          "text": "Wand Proficiency II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -653,7 +688,14 @@
     {
       "id": 6,
       "name": "Teleport",
-      "formattedName": "§#87dd47ff§lTeleport",
+      "formattedName": [
+        {
+          "text": "Teleport",
+          "bold": true,
+          "font": "default",
+          "color": "#87dd47ff"
+        }
+      ],
       "description": [
         [
           {
@@ -784,7 +826,14 @@
     {
       "id": 7,
       "name": "Wisdom",
-      "formattedName": "§#ffe14dff§lWisdom",
+      "formattedName": [
+        {
+          "text": "Wisdom",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -900,7 +949,14 @@
     {
       "id": 8,
       "name": "Heal",
-      "formattedName": "§#87dd47ff§lHeal",
+      "formattedName": [
+        {
+          "text": "Heal",
+          "bold": true,
+          "font": "default",
+          "color": "#87dd47ff"
+        }
+      ],
       "description": [
         [
           {
@@ -1106,7 +1162,14 @@
     {
       "id": 9,
       "name": "Cheaper Teleport",
-      "formattedName": "§f§lCheaper Teleport",
+      "formattedName": [
+        {
+          "text": "Cheaper Teleport",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -1183,7 +1246,14 @@
     {
       "id": 10,
       "name": "Ice Snake",
-      "formattedName": "§#87dd47ff§lIce Snake",
+      "formattedName": [
+        {
+          "text": "Ice Snake",
+          "bold": true,
+          "font": "default",
+          "color": "#87dd47ff"
+        }
+      ],
       "description": [
         [
           {
@@ -1502,7 +1572,14 @@
     {
       "id": 11,
       "name": "Air Mastery",
-      "formattedName": "§f§lAir Mastery",
+      "formattedName": [
+        {
+          "text": "Air Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -1612,7 +1689,14 @@
     {
       "id": 12,
       "name": "Thunder Mastery",
-      "formattedName": "§f§lThunder Mastery",
+      "formattedName": [
+        {
+          "text": "Thunder Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -1723,7 +1807,14 @@
     {
       "id": 13,
       "name": "Fire Mastery",
-      "formattedName": "§f§lFire Mastery",
+      "formattedName": [
+        {
+          "text": "Fire Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -1834,7 +1925,14 @@
     {
       "id": 14,
       "name": "Earth Mastery",
-      "formattedName": "§f§lEarth Mastery",
+      "formattedName": [
+        {
+          "text": "Earth Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -1944,7 +2042,14 @@
     {
       "id": 15,
       "name": "Water Mastery",
-      "formattedName": "§f§lWater Mastery",
+      "formattedName": [
+        {
+          "text": "Water Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -2054,7 +2159,14 @@
     {
       "id": 16,
       "name": "Wind Slash",
-      "formattedName": "§#f747c2ff§lWind Slash",
+      "formattedName": [
+        {
+          "text": "Wind Slash",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -2260,7 +2372,14 @@
     {
       "id": 17,
       "name": "Thunderstorm",
-      "formattedName": "§#f747c2ff§lThunderstorm",
+      "formattedName": [
+        {
+          "text": "Thunderstorm",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -2482,7 +2601,14 @@
     {
       "id": 18,
       "name": "Burning Sigil",
-      "formattedName": "§#f747c2ff§lBurning Sigil",
+      "formattedName": [
+        {
+          "text": "Burning Sigil",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -2733,7 +2859,14 @@
     {
       "id": 19,
       "name": "Sunshower",
-      "formattedName": "§#f747c2ff§lSunshower",
+      "formattedName": [
+        {
+          "text": "Sunshower",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -2943,7 +3076,14 @@
     {
       "id": 20,
       "name": "Crashing Comet",
-      "formattedName": "§f§lCrashing Comet",
+      "formattedName": [
+        {
+          "text": "Crashing Comet",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -3115,7 +3255,14 @@
     {
       "id": 21,
       "name": "Windsweeper",
-      "formattedName": "§#ff4545ff§lWindsweeper",
+      "formattedName": [
+        {
+          "text": "Windsweeper",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -3382,7 +3529,14 @@
     {
       "id": 22,
       "name": "Ophanim",
-      "formattedName": "§#ff4545ff§lOphanim",
+      "formattedName": [
+        {
+          "text": "Ophanim",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -3750,7 +3904,14 @@
     {
       "id": 23,
       "name": "Arcane Transfer",
-      "formattedName": "§#ff4545ff§lArcane Transfer",
+      "formattedName": [
+        {
+          "text": "Arcane Transfer",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -3984,7 +4145,14 @@
     {
       "id": 24,
       "name": "Cheaper Heal",
-      "formattedName": "§f§lCheaper Heal",
+      "formattedName": [
+        {
+          "text": "Cheaper Heal",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -4063,7 +4231,14 @@
     {
       "id": 25,
       "name": "Purification",
-      "formattedName": "§#99e9ffff§lPurification",
+      "formattedName": [
+        {
+          "text": "Purification",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -4155,7 +4330,14 @@
     {
       "id": 26,
       "name": "Sentient Snake",
-      "formattedName": "§#f747c2ff§lSentient Snake",
+      "formattedName": [
+        {
+          "text": "Sentient Snake",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -4316,7 +4498,14 @@
     {
       "id": 27,
       "name": "Eye Piercer",
-      "formattedName": "§#f747c2ff§lEye Piercer",
+      "formattedName": [
+        {
+          "text": "Eye Piercer",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -4421,7 +4610,14 @@
     {
       "id": 28,
       "name": "Breathless",
-      "formattedName": "§#f747c2ff§lBreathless",
+      "formattedName": [
+        {
+          "text": "Breathless",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -4856,7 +5052,14 @@
     {
       "id": 29,
       "name": "Larger Heal",
-      "formattedName": "§f§lLarger Heal",
+      "formattedName": [
+        {
+          "text": "Larger Heal",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -4973,7 +5176,14 @@
     {
       "id": 30,
       "name": "Larger Mana Bank",
-      "formattedName": "§f§lLarger Mana Bank",
+      "formattedName": [
+        {
+          "text": "Larger Mana Bank",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -5045,7 +5255,14 @@
     {
       "id": 31,
       "name": "Cheaper Ice Snake",
-      "formattedName": "§f§lCheaper Ice Snake",
+      "formattedName": [
+        {
+          "text": "Cheaper Ice Snake",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -5124,7 +5341,14 @@
     {
       "id": 32,
       "name": "Fortitude",
-      "formattedName": "§#99e9ffff§lFortitude",
+      "formattedName": [
+        {
+          "text": "Fortitude",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -5302,7 +5526,14 @@
     {
       "id": 33,
       "name": "Cheaper Teleport II",
-      "formattedName": "§f§lCheaper Teleport II",
+      "formattedName": [
+        {
+          "text": "Cheaper Teleport II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -5382,7 +5613,14 @@
     {
       "id": 34,
       "name": "Pyrokinesis",
-      "formattedName": "§#99e9ffff§lPyrokinesis",
+      "formattedName": [
+        {
+          "text": "Pyrokinesis",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -5583,7 +5821,14 @@
     {
       "id": 35,
       "name": "Blink",
-      "formattedName": "§#ffe14dff§lBlink",
+      "formattedName": [
+        {
+          "text": "Blink",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -5685,7 +5930,14 @@
     {
       "id": 36,
       "name": "Freezing Sigil",
-      "formattedName": "§#99e9ffff§lFreezing Sigil",
+      "formattedName": [
+        {
+          "text": "Freezing Sigil",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -5993,7 +6245,14 @@
     {
       "id": 37,
       "name": "Resilient Light",
-      "formattedName": "§f§lResilient Light",
+      "formattedName": [
+        {
+          "text": "Resilient Light",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -6091,7 +6350,14 @@
     {
       "id": 38,
       "name": "Snake Nest",
-      "formattedName": "§#f747c2ff§lSnake Nest",
+      "formattedName": [
+        {
+          "text": "Snake Nest",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -6255,7 +6521,14 @@
     {
       "id": 39,
       "name": "Seance",
-      "formattedName": "§f§lSeance",
+      "formattedName": [
+        {
+          "text": "Seance",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -6320,7 +6593,14 @@
     {
       "id": 40,
       "name": "Transonic Warp",
-      "formattedName": "§#99e9ffff§lTransonic Warp",
+      "formattedName": [
+        {
+          "text": "Transonic Warp",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -6549,7 +6829,14 @@
     {
       "id": 41,
       "name": "Fluid Healing",
-      "formattedName": "§#f747c2ff§lFluid Healing",
+      "formattedName": [
+        {
+          "text": "Fluid Healing",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -6656,7 +6943,14 @@
     {
       "id": 42,
       "name": "Orphion\u0027s Pulse",
-      "formattedName": "§#99e9ffff§lOrphion\u0027s Pulse",
+      "formattedName": [
+        {
+          "text": "Orphion\u0027s Pulse",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -6847,7 +7141,14 @@
     {
       "id": 43,
       "name": "Arcane Restoration",
-      "formattedName": "§#ffe14dff§lArcane Restoration",
+      "formattedName": [
+        {
+          "text": "Arcane Restoration",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -6973,7 +7274,14 @@
     {
       "id": 44,
       "name": "Incandescence",
-      "formattedName": "§f§lIncandescence",
+      "formattedName": [
+        {
+          "text": "Incandescence",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -7127,7 +7435,14 @@
     {
       "id": 45,
       "name": "Diffusion",
-      "formattedName": "§#ff4545ff§lDiffusion",
+      "formattedName": [
+        {
+          "text": "Diffusion",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -7251,7 +7566,14 @@
     {
       "id": 46,
       "name": "Lightweaver",
-      "formattedName": "§#ff4545ff§lLightweaver",
+      "formattedName": [
+        {
+          "text": "Lightweaver",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -7509,7 +7831,14 @@
     {
       "id": 47,
       "name": "Arcane Speed",
-      "formattedName": "§#f747c2ff§lArcane Speed",
+      "formattedName": [
+        {
+          "text": "Arcane Speed",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -7669,7 +7998,14 @@
     {
       "id": 48,
       "name": "Larger Mana Bank II",
-      "formattedName": "§f§lLarger Mana Bank II",
+      "formattedName": [
+        {
+          "text": "Larger Mana Bank II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -7745,7 +8081,14 @@
     {
       "id": 49,
       "name": "More Winded",
-      "formattedName": "§f§lMore Winded",
+      "formattedName": [
+        {
+          "text": "More Winded",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -7820,7 +8163,14 @@
     {
       "id": 50,
       "name": "Psychokinesis",
-      "formattedName": "§#f747c2ff§lPsychokinesis",
+      "formattedName": [
+        {
+          "text": "Psychokinesis",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -7934,7 +8284,14 @@
     {
       "id": 51,
       "name": "Cheaper Ice Snake II",
-      "formattedName": "§f§lCheaper Ice Snake II",
+      "formattedName": [
+        {
+          "text": "Cheaper Ice Snake II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -8013,7 +8370,14 @@
     {
       "id": 52,
       "name": "Explosive Entrance",
-      "formattedName": "§#f747c2ff§lExplosive Entrance",
+      "formattedName": [
+        {
+          "text": "Explosive Entrance",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -8204,7 +8568,14 @@
     {
       "id": 53,
       "name": "Cheaper Meteor II",
-      "formattedName": "§f§lCheaper Meteor II",
+      "formattedName": [
+        {
+          "text": "Cheaper Meteor II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -8282,7 +8653,14 @@
     {
       "id": 54,
       "name": "Chaos Explosion",
-      "formattedName": "§#ff4545ff§lChaos Explosion",
+      "formattedName": [
+        {
+          "text": "Chaos Explosion",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -8392,7 +8770,14 @@
     {
       "id": 55,
       "name": "Time Dilation",
-      "formattedName": "§#99e9ffff§lTime Dilation",
+      "formattedName": [
+        {
+          "text": "Time Dilation",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -8535,7 +8920,14 @@
     {
       "id": 56,
       "name": "Gust",
-      "formattedName": "§#ffe14dff§lGust",
+      "formattedName": [
+        {
+          "text": "Gust",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -8716,7 +9108,14 @@
     {
       "id": 57,
       "name": "Augury",
-      "formattedName": "§f§lAugury",
+      "formattedName": [
+        {
+          "text": "Augury",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -8797,7 +9196,14 @@
     {
       "id": 58,
       "name": "Arctic Snake",
-      "formattedName": "§#f747c2ff§lArctic Snake",
+      "formattedName": [
+        {
+          "text": "Arctic Snake",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -8911,7 +9317,14 @@
     {
       "id": 59,
       "name": "Searing Light",
-      "formattedName": "§f§lSearing Light",
+      "formattedName": [
+        {
+          "text": "Searing Light",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -9117,7 +9530,14 @@
     {
       "id": 60,
       "name": "Arcane Power",
-      "formattedName": "§#ffe14dff§lArcane Power",
+      "formattedName": [
+        {
+          "text": "Arcane Power",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -9291,7 +9711,14 @@
     {
       "id": 61,
       "name": "More Winded II",
-      "formattedName": "§f§lMore Winded II",
+      "formattedName": [
+        {
+          "text": "More Winded II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -9370,7 +9797,14 @@
     {
       "id": 62,
       "name": "Devitalize",
-      "formattedName": "§#f747c2ff§lDevitalize",
+      "formattedName": [
+        {
+          "text": "Devitalize",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -9458,7 +9892,14 @@
     {
       "id": 63,
       "name": "Everlasting Light",
-      "formattedName": "§f§lEverlasting Light",
+      "formattedName": [
+        {
+          "text": "Everlasting Light",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -9540,7 +9981,14 @@
     {
       "id": 64,
       "name": "Larger Mana Bank III",
-      "formattedName": "§f§lLarger Mana Bank III",
+      "formattedName": [
+        {
+          "text": "Larger Mana Bank III",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -9614,7 +10062,14 @@
     {
       "id": 65,
       "name": "Windcharged",
-      "formattedName": "§#ffe14dff§lWindcharged",
+      "formattedName": [
+        {
+          "text": "Windcharged",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -9688,7 +10143,14 @@
     {
       "id": 66,
       "name": "Divination",
-      "formattedName": "§#99e9ffff§lDivination",
+      "formattedName": [
+        {
+          "text": "Divination",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -9918,7 +10380,14 @@
     {
       "id": 67,
       "name": "Sunflare",
-      "formattedName": "§#ff4545ff§lSunflare",
+      "formattedName": [
+        {
+          "text": "Sunflare",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -10190,7 +10659,14 @@
     {
       "id": 68,
       "name": "Halo",
-      "formattedName": "§f§lHalo",
+      "formattedName": [
+        {
+          "text": "Halo",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -10268,7 +10744,14 @@
     {
       "id": 69,
       "name": "Arcane Overflow",
-      "formattedName": "§#ff4545ff§lArcane Overflow",
+      "formattedName": [
+        {
+          "text": "Arcane Overflow",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -10337,7 +10820,14 @@
     {
       "id": 70,
       "name": "Timelock",
-      "formattedName": "§#ff4545ff§lTimelock",
+      "formattedName": [
+        {
+          "text": "Timelock",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -10588,7 +11078,14 @@
     {
       "id": 71,
       "name": "Cheaper Heal II",
-      "formattedName": "§f§lCheaper Heal II",
+      "formattedName": [
+        {
+          "text": "Cheaper Heal II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -10663,7 +11160,14 @@
     {
       "id": 72,
       "name": "Manastorm",
-      "formattedName": "§#f747c2ff§lManastorm",
+      "formattedName": [
+        {
+          "text": "Manastorm",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -10757,7 +11261,14 @@
     {
       "id": 73,
       "name": "Memory Recollection",
-      "formattedName": "§f§lMemory Recollection",
+      "formattedName": [
+        {
+          "text": "Memory Recollection",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -10807,9 +11318,16 @@
     }
   ],
   "archetypeInfoMap": {
-    "60c5cdff": {
-      "name": "60c5cdff",
-      "formattedName": "§#60c5cdff§lRiftwalker Archetype",
+    "Riftwalker": {
+      "name": "Riftwalker",
+      "formattedName": [
+        {
+          "text": "Riftwalker Archetype",
+          "bold": true,
+          "font": "default",
+          "color": "#60c5cdff"
+        }
+      ],
       "description": [
         " ",
         "§7Riftwalkers bend time and",
@@ -10821,9 +11339,16 @@
         "modelData": 201.0
       }
     },
-    "b8b0b0ff": {
-      "name": "b8b0b0ff",
-      "formattedName": "§#b8b0b0ff§lLight Bender Archetype",
+    "Light Bender": {
+      "name": "Light Bender",
+      "formattedName": [
+        {
+          "text": "Light Bender Archetype",
+          "bold": true,
+          "font": "default",
+          "color": "#b8b0b0ff"
+        }
+      ],
       "description": [
         " ",
         "§7Light Benders support allies",
@@ -10834,9 +11359,16 @@
         "modelData": 200.0
       }
     },
-    "eb3dfeff": {
-      "name": "eb3dfeff",
-      "formattedName": "§#eb3dfeff§lArcanist Archetype",
+    "Arcanist": {
+      "name": "Arcanist",
+      "formattedName": [
+        {
+          "text": "Arcanist Archetype",
+          "bold": true,
+          "font": "default",
+          "color": "#eb3dfeff"
+        }
+      ],
       "description": [
         " ",
         "§7Arcanists cause destructive",

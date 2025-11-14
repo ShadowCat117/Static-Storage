@@ -3,7 +3,14 @@
     {
       "id": 1,
       "name": "Bash",
-      "formattedName": "§#87dd47ff§lBash",
+      "formattedName": [
+        {
+          "text": "Bash",
+          "bold": true,
+          "font": "default",
+          "color": "#87dd47ff"
+        }
+      ],
       "description": [
         [
           {
@@ -261,7 +268,14 @@
     {
       "id": 2,
       "name": "Cheaper Bash",
-      "formattedName": "§f§lCheaper Bash",
+      "formattedName": [
+        {
+          "text": "Cheaper Bash",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -336,7 +350,14 @@
     {
       "id": 3,
       "name": "Spear Proficiency I",
-      "formattedName": "§f§lSpear Proficiency I",
+      "formattedName": [
+        {
+          "text": "Spear Proficiency I",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -443,7 +464,14 @@
     {
       "id": 4,
       "name": "Double Bash",
-      "formattedName": "§#ffe14dff§lDouble Bash",
+      "formattedName": [
+        {
+          "text": "Double Bash",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -586,7 +614,14 @@
     {
       "id": 5,
       "name": "Vehement",
-      "formattedName": "§#ffe14dff§lVehement",
+      "formattedName": [
+        {
+          "text": "Vehement",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -737,7 +772,14 @@
     {
       "id": 6,
       "name": "Charge",
-      "formattedName": "§#87dd47ff§lCharge",
+      "formattedName": [
+        {
+          "text": "Charge",
+          "bold": true,
+          "font": "default",
+          "color": "#87dd47ff"
+        }
+      ],
       "description": [
         [
           {
@@ -846,7 +888,14 @@
     {
       "id": 7,
       "name": "Tougher Skin",
-      "formattedName": "§#ffe14dff§lTougher Skin",
+      "formattedName": [
+        {
+          "text": "Tougher Skin",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -988,7 +1037,14 @@
     {
       "id": 8,
       "name": "Uppercut",
-      "formattedName": "§#87dd47ff§lUppercut",
+      "formattedName": [
+        {
+          "text": "Uppercut",
+          "bold": true,
+          "font": "default",
+          "color": "#87dd47ff"
+        }
+      ],
       "description": [
         [
           {
@@ -1286,7 +1342,14 @@
     {
       "id": 9,
       "name": "Cheaper Charge",
-      "formattedName": "§f§lCheaper Charge",
+      "formattedName": [
+        {
+          "text": "Cheaper Charge",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -1363,7 +1426,14 @@
     {
       "id": 10,
       "name": "War Scream",
-      "formattedName": "§#87dd47ff§lWar Scream",
+      "formattedName": [
+        {
+          "text": "War Scream",
+          "bold": true,
+          "font": "default",
+          "color": "#87dd47ff"
+        }
+      ],
       "description": [
         [
           {
@@ -1667,7 +1737,14 @@
     {
       "id": 11,
       "name": "Heavy Impact",
-      "formattedName": "§#ffe14dff§lHeavy Impact",
+      "formattedName": [
+        {
+          "text": "Heavy Impact",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -1813,7 +1890,14 @@
     {
       "id": 12,
       "name": "Earth Mastery",
-      "formattedName": "§f§lEarth Mastery",
+      "formattedName": [
+        {
+          "text": "Earth Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -1923,7 +2007,14 @@
     {
       "id": 13,
       "name": "Thunder Mastery",
-      "formattedName": "§f§lThunder Mastery",
+      "formattedName": [
+        {
+          "text": "Thunder Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -2035,7 +2126,14 @@
     {
       "id": 14,
       "name": "Air Mastery",
-      "formattedName": "§f§lAir Mastery",
+      "formattedName": [
+        {
+          "text": "Air Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -2146,7 +2244,14 @@
     {
       "id": 15,
       "name": "Fire Mastery",
-      "formattedName": "§f§lFire Mastery",
+      "formattedName": [
+        {
+          "text": "Fire Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -2256,7 +2361,14 @@
     {
       "id": 16,
       "name": "Water Mastery",
-      "formattedName": "§f§lWater Mastery",
+      "formattedName": [
+        {
+          "text": "Water Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -2366,7 +2478,14 @@
     {
       "id": 17,
       "name": "Quadruple Bash",
-      "formattedName": "§#f747c2ff§lQuadruple Bash",
+      "formattedName": [
+        {
+          "text": "Quadruple Bash",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -2525,7 +2644,14 @@
     {
       "id": 18,
       "name": "Fireworks",
-      "formattedName": "§#f747c2ff§lFireworks",
+      "formattedName": [
+        {
+          "text": "Fireworks",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -2703,7 +2829,14 @@
     {
       "id": 19,
       "name": "Flyby Jab",
-      "formattedName": "§#ffe14dff§lFlyby Jab",
+      "formattedName": [
+        {
+          "text": "Flyby Jab",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -2884,7 +3017,14 @@
     {
       "id": 20,
       "name": "Flaming Uppercut",
-      "formattedName": "§#f747c2ff§lFlaming Uppercut",
+      "formattedName": [
+        {
+          "text": "Flaming Uppercut",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -3089,7 +3229,14 @@
     {
       "id": 21,
       "name": "Half-Moon Swipe",
-      "formattedName": "§#99e9ffff§lHalf-Moon Swipe",
+      "formattedName": [
+        {
+          "text": "Half-Moon Swipe",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -3309,7 +3456,14 @@
     {
       "id": 22,
       "name": "Iron Lungs",
-      "formattedName": "§#ffe14dff§lIron Lungs",
+      "formattedName": [
+        {
+          "text": "Iron Lungs",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -3616,7 +3770,14 @@
     {
       "id": 23,
       "name": "Generalist",
-      "formattedName": "§#ff4545ff§lGeneralist",
+      "formattedName": [
+        {
+          "text": "Generalist",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -3698,7 +3859,14 @@
     {
       "id": 24,
       "name": "Air Shout",
-      "formattedName": "§#f747c2ff§lAir Shout",
+      "formattedName": [
+        {
+          "text": "Air Shout",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -3926,7 +4094,14 @@
     {
       "id": 25,
       "name": "Mantle of the Bovemists",
-      "formattedName": "§#ff4545ff§lMantle of the Bovemists",
+      "formattedName": [
+        {
+          "text": "Mantle of the Bovemists",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -4055,7 +4230,14 @@
     {
       "id": 26,
       "name": "Bak\u0027al\u0027s Grasp",
-      "formattedName": "§#ff4545ff§lBak\u0027al\u0027s Grasp",
+      "formattedName": [
+        {
+          "text": "Bak\u0027al\u0027s Grasp",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -4308,7 +4490,14 @@
     {
       "id": 27,
       "name": "Spear Proficiency II",
-      "formattedName": "§f§lSpear Proficiency II",
+      "formattedName": [
+        {
+          "text": "Spear Proficiency II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -4416,7 +4605,14 @@
     {
       "id": 28,
       "name": "Cheaper Uppercut",
-      "formattedName": "§f§lCheaper Uppercut",
+      "formattedName": [
+        {
+          "text": "Cheaper Uppercut",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -4496,7 +4692,14 @@
     {
       "id": 29,
       "name": "Aerodynamics",
-      "formattedName": "§#ffe14dff§lAerodynamics",
+      "formattedName": [
+        {
+          "text": "Aerodynamics",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -4567,7 +4770,14 @@
     {
       "id": 30,
       "name": "Manachism",
-      "formattedName": "§#99e9ffff§lManachism",
+      "formattedName": [
+        {
+          "text": "Manachism",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -4675,7 +4885,14 @@
     {
       "id": 31,
       "name": "Intoxicating Blood",
-      "formattedName": "§#ffe14dff§lIntoxicating Blood",
+      "formattedName": [
+        {
+          "text": "Intoxicating Blood",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -4807,7 +5024,14 @@
     {
       "id": 32,
       "name": "Counter",
-      "formattedName": "§#f747c2ff§lCounter",
+      "formattedName": [
+        {
+          "text": "Counter",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -5043,7 +5267,14 @@
     {
       "id": 33,
       "name": "Shield Strike",
-      "formattedName": "§#f747c2ff§lShield Strike",
+      "formattedName": [
+        {
+          "text": "Shield Strike",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -5283,7 +5514,14 @@
     {
       "id": 34,
       "name": "Blood Pact",
-      "formattedName": "§#ff4545ff§lBlood Pact",
+      "formattedName": [
+        {
+          "text": "Blood Pact",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -5405,7 +5643,14 @@
     {
       "id": 35,
       "name": "Flying Kick",
-      "formattedName": "§#99e9ffff§lFlying Kick",
+      "formattedName": [
+        {
+          "text": "Flying Kick",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -5647,7 +5892,14 @@
     {
       "id": 36,
       "name": "Crushing Blow",
-      "formattedName": "§f§lCrushing Blow",
+      "formattedName": [
+        {
+          "text": "Crushing Blow",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -5766,7 +6018,14 @@
     {
       "id": 37,
       "name": "Rejuvenating Skin",
-      "formattedName": "§#99e9ffff§lRejuvenating Skin",
+      "formattedName": [
+        {
+          "text": "Rejuvenating Skin",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -5856,7 +6115,14 @@
     {
       "id": 38,
       "name": "Enraged Blow",
-      "formattedName": "§#99e9ffff§lEnraged Blow",
+      "formattedName": [
+        {
+          "text": "Enraged Blow",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -5943,7 +6209,14 @@
     {
       "id": 39,
       "name": "Exhilarate",
-      "formattedName": "§#ffe14dff§lExhilarate",
+      "formattedName": [
+        {
+          "text": "Exhilarate",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -6020,7 +6293,14 @@
     {
       "id": 40,
       "name": "Cheaper War Scream",
-      "formattedName": "§f§lCheaper War Scream",
+      "formattedName": [
+        {
+          "text": "Cheaper War Scream",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -6100,7 +6380,14 @@
     {
       "id": 41,
       "name": "Cleansing Breeze",
-      "formattedName": "§#ffe14dff§lCleansing Breeze",
+      "formattedName": [
+        {
+          "text": "Cleansing Breeze",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -6224,7 +6511,14 @@
     {
       "id": 42,
       "name": "Cheaper Bash II",
-      "formattedName": "§f§lCheaper Bash II",
+      "formattedName": [
+        {
+          "text": "Cheaper Bash II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -6302,7 +6596,14 @@
     {
       "id": 43,
       "name": "Boiling Blood",
-      "formattedName": "§#f747c2ff§lBoiling Blood",
+      "formattedName": [
+        {
+          "text": "Boiling Blood",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -6560,7 +6861,14 @@
     {
       "id": 44,
       "name": "Comet",
-      "formattedName": "§#f747c2ff§lComet",
+      "formattedName": [
+        {
+          "text": "Comet",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -6738,7 +7046,14 @@
     {
       "id": 45,
       "name": "Collide",
-      "formattedName": "§#f747c2ff§lCollide",
+      "formattedName": [
+        {
+          "text": "Collide",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -7056,7 +7371,14 @@
     {
       "id": 46,
       "name": "Sacred Surge",
-      "formattedName": "§#ff4545ff§lSacred Surge",
+      "formattedName": [
+        {
+          "text": "Sacred Surge",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -7363,7 +7685,14 @@
     {
       "id": 47,
       "name": "Massacre",
-      "formattedName": "§#ffe14dff§lMassacre",
+      "formattedName": [
+        {
+          "text": "Massacre",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -7481,7 +7810,14 @@
     {
       "id": 48,
       "name": "Emboldening Cry",
-      "formattedName": "§#f747c2ff§lEmboldening Cry",
+      "formattedName": [
+        {
+          "text": "Emboldening Cry",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -7632,7 +7968,14 @@
     {
       "id": 49,
       "name": "Uncontainable Corruption",
-      "formattedName": "§f§lUncontainable Corruption",
+      "formattedName": [
+        {
+          "text": "Uncontainable Corruption",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -7726,7 +8069,14 @@
     {
       "id": 50,
       "name": "Spirit of the Rabbit",
-      "formattedName": "§f§lSpirit of the Rabbit",
+      "formattedName": [
+        {
+          "text": "Spirit of the Rabbit",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -7816,7 +8166,14 @@
     {
       "id": 51,
       "name": "Whirlwind Strike",
-      "formattedName": "§#ff4545ff§lWhirlwind Strike",
+      "formattedName": [
+        {
+          "text": "Whirlwind Strike",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -8024,7 +8381,14 @@
     {
       "id": 52,
       "name": "Mythril Skin",
-      "formattedName": "§#ffe14dff§lMythril Skin",
+      "formattedName": [
+        {
+          "text": "Mythril Skin",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -8094,7 +8458,14 @@
     {
       "id": 53,
       "name": "Armour Breaker",
-      "formattedName": "§#99e9ffff§lArmour Breaker",
+      "formattedName": [
+        {
+          "text": "Armour Breaker",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -8275,7 +8646,14 @@
     {
       "id": 54,
       "name": "Tempest",
-      "formattedName": "§#f747c2ff§lTempest",
+      "formattedName": [
+        {
+          "text": "Tempest",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -8531,7 +8909,14 @@
     {
       "id": 55,
       "name": "Freestream Flow",
-      "formattedName": "§#ffe14dff§lFreestream Flow",
+      "formattedName": [
+        {
+          "text": "Freestream Flow",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -8600,7 +8985,14 @@
     {
       "id": 56,
       "name": "Massive Bash",
-      "formattedName": "§#99e9ffff§lMassive Bash",
+      "formattedName": [
+        {
+          "text": "Massive Bash",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -8704,7 +9096,14 @@
     {
       "id": 57,
       "name": "Riposte",
-      "formattedName": "§f§lRiposte",
+      "formattedName": [
+        {
+          "text": "Riposte",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -8927,7 +9326,14 @@
     {
       "id": 58,
       "name": "Radiant Devotee",
-      "formattedName": "§f§lRadiant Devotee",
+      "formattedName": [
+        {
+          "text": "Radiant Devotee",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -9009,7 +9415,14 @@
     {
       "id": 59,
       "name": "Luster Purge",
-      "formattedName": "§#f747c2ff§lLuster Purge",
+      "formattedName": [
+        {
+          "text": "Luster Purge",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -9201,7 +9614,14 @@
     {
       "id": 60,
       "name": "Sparkling Hope",
-      "formattedName": "§#f747c2ff§lSparkling Hope",
+      "formattedName": [
+        {
+          "text": "Sparkling Hope",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -9449,7 +9869,14 @@
     {
       "id": 61,
       "name": "Mindless Slaughter",
-      "formattedName": "§#ffe14dff§lMindless Slaughter",
+      "formattedName": [
+        {
+          "text": "Mindless Slaughter",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -9587,7 +10014,14 @@
     {
       "id": 62,
       "name": "Axe Kick",
-      "formattedName": "§f§lAxe Kick",
+      "formattedName": [
+        {
+          "text": "Axe Kick",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -9733,7 +10167,14 @@
     {
       "id": 63,
       "name": "Provoke",
-      "formattedName": "§#99e9ffff§lProvoke",
+      "formattedName": [
+        {
+          "text": "Provoke",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -9909,7 +10350,14 @@
     {
       "id": 64,
       "name": "Blessed Bulwark",
-      "formattedName": "§f§lBlessed Bulwark",
+      "formattedName": [
+        {
+          "text": "Blessed Bulwark",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -9974,7 +10422,14 @@
     {
       "id": 65,
       "name": "Cheaper War Scream II",
-      "formattedName": "§f§lCheaper War Scream II",
+      "formattedName": [
+        {
+          "text": "Cheaper War Scream II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -10052,7 +10507,14 @@
     {
       "id": 66,
       "name": "Overwhelming Rage",
-      "formattedName": "§f§lOverwhelming Rage",
+      "formattedName": [
+        {
+          "text": "Overwhelming Rage",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -10110,7 +10572,14 @@
     {
       "id": 67,
       "name": "Cyclone",
-      "formattedName": "§#f747c2ff§lCyclone",
+      "formattedName": [
+        {
+          "text": "Cyclone",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -10382,7 +10851,14 @@
     {
       "id": 68,
       "name": "Pressure",
-      "formattedName": "§#ff4545ff§lPressure",
+      "formattedName": [
+        {
+          "text": "Pressure",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [],
         [
@@ -10686,7 +11162,14 @@
     {
       "id": 69,
       "name": "Thunderclap",
-      "formattedName": "§#99e9ffff§lThunderclap",
+      "formattedName": [
+        {
+          "text": "Thunderclap",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -10986,7 +11469,14 @@
     {
       "id": 70,
       "name": "Radiance",
-      "formattedName": "§#99e9ffff§lRadiance",
+      "formattedName": [
+        {
+          "text": "Radiance",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -11164,7 +11654,14 @@
     {
       "id": 71,
       "name": "Bloodlust",
-      "formattedName": "§#ff4545ff§lBloodlust",
+      "formattedName": [
+        {
+          "text": "Bloodlust",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -11409,7 +11906,14 @@
     {
       "id": 72,
       "name": "Discombobulate",
-      "formattedName": "§#f747c2ff§lDiscombobulate",
+      "formattedName": [
+        {
+          "text": "Discombobulate",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -11549,7 +12053,14 @@
     {
       "id": 73,
       "name": "Consecration",
-      "formattedName": "§f§lConsecration",
+      "formattedName": [
+        {
+          "text": "Consecration",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -11760,7 +12271,14 @@
     {
       "id": 74,
       "name": "Haemorrhage",
-      "formattedName": "§f§lHaemorrhage",
+      "formattedName": [
+        {
+          "text": "Haemorrhage",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -11838,7 +12356,14 @@
     {
       "id": 75,
       "name": "Reverberance",
-      "formattedName": "§#ffe14dff§lReverberance",
+      "formattedName": [
+        {
+          "text": "Reverberance",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -12044,7 +12569,14 @@
     {
       "id": 76,
       "name": "Heavenly Trumpet",
-      "formattedName": "§#ff4545ff§lHeavenly Trumpet",
+      "formattedName": [
+        {
+          "text": "Heavenly Trumpet",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -12280,7 +12812,14 @@
     {
       "id": 77,
       "name": "Brink of Madness",
-      "formattedName": "§#99e9ffff§lBrink of Madness",
+      "formattedName": [
+        {
+          "text": "Brink of Madness",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -12344,7 +12883,14 @@
     {
       "id": 78,
       "name": "Cheaper Uppercut II",
-      "formattedName": "§f§lCheaper Uppercut II",
+      "formattedName": [
+        {
+          "text": "Cheaper Uppercut II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -12419,7 +12965,14 @@
     {
       "id": 79,
       "name": "Second Chance",
-      "formattedName": "§#99e9ffff§lSecond Chance",
+      "formattedName": [
+        {
+          "text": "Second Chance",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -12602,9 +13155,16 @@
     }
   ],
   "archetypeInfoMap": {
-    "ffa057ff": {
-      "name": "ffa057ff",
-      "formattedName": "§#ffa057ff§lFallen Archetype",
+    "Fallen": {
+      "name": "Fallen",
+      "formattedName": [
+        {
+          "text": "Fallen Archetype",
+          "bold": true,
+          "font": "default",
+          "color": "#ffa057ff"
+        }
+      ],
       "description": [
         " ",
         "§7Fallens can deal massive",
@@ -12616,9 +13176,16 @@
         "modelData": 206.0
       }
     },
-    "dae069ff": {
-      "name": "dae069ff",
-      "formattedName": "§#dae069ff§lBattle Monk Archetype",
+    "Battle Monk": {
+      "name": "Battle Monk",
+      "formattedName": [
+        {
+          "text": "Battle Monk Archetype",
+          "bold": true,
+          "font": "default",
+          "color": "#dae069ff"
+        }
+      ],
       "description": [
         " ",
         "§7Battle Monks are swift holy",
@@ -12629,9 +13196,16 @@
         "modelData": 205.0
       }
     },
-    "60c5cdff": {
-      "name": "60c5cdff",
-      "formattedName": "§#60c5cdff§lPaladin Archetype",
+    "Paladin": {
+      "name": "Paladin",
+      "formattedName": [
+        {
+          "text": "Paladin Archetype",
+          "bold": true,
+          "font": "default",
+          "color": "#60c5cdff"
+        }
+      ],
       "description": [
         " ",
         "§7Paladins can endure huge hits",

@@ -3,7 +3,14 @@
     {
       "id": 1,
       "name": "Arrow Bomb",
-      "formattedName": "§#87dd47ff§lArrow Bomb",
+      "formattedName": [
+        {
+          "text": "Arrow Bomb",
+          "bold": true,
+          "font": "default",
+          "color": "#87dd47ff"
+        }
+      ],
       "description": [
         [
           {
@@ -268,7 +275,14 @@
     {
       "id": 2,
       "name": "Bow Proficiency",
-      "formattedName": "§f§lBow Proficiency",
+      "formattedName": [
+        {
+          "text": "Bow Proficiency",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -375,7 +389,14 @@
     {
       "id": 3,
       "name": "Cheaper Arrow Bomb",
-      "formattedName": "§f§lCheaper Arrow Bomb",
+      "formattedName": [
+        {
+          "text": "Cheaper Arrow Bomb",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -450,7 +471,14 @@
     {
       "id": 4,
       "name": "Heart Shatter",
-      "formattedName": "§#ffe14dff§lHeart Shatter",
+      "formattedName": [
+        {
+          "text": "Heart Shatter",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -576,7 +604,14 @@
     {
       "id": 5,
       "name": "Double Shots",
-      "formattedName": "§#ffe14dff§lDouble Shots",
+      "formattedName": [
+        {
+          "text": "Double Shots",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -708,7 +743,14 @@
     {
       "id": 6,
       "name": "Escape",
-      "formattedName": "§#87dd47ff§lEscape",
+      "formattedName": [
+        {
+          "text": "Escape",
+          "bold": true,
+          "font": "default",
+          "color": "#87dd47ff"
+        }
+      ],
       "description": [
         [
           {
@@ -817,7 +859,14 @@
     {
       "id": 7,
       "name": "Power Shots",
-      "formattedName": "§#ffe14dff§lPower Shots",
+      "formattedName": [
+        {
+          "text": "Power Shots",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -914,7 +963,14 @@
     {
       "id": 8,
       "name": "Arrow Storm",
-      "formattedName": "§#87dd47ff§lArrow Storm",
+      "formattedName": [
+        {
+          "text": "Arrow Storm",
+          "bold": true,
+          "font": "default",
+          "color": "#87dd47ff"
+        }
+      ],
       "description": [
         [
           {
@@ -1165,7 +1221,14 @@
     {
       "id": 9,
       "name": "Cheaper Escape",
-      "formattedName": "§f§lCheaper Escape",
+      "formattedName": [
+        {
+          "text": "Cheaper Escape",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -1242,7 +1305,14 @@
     {
       "id": 10,
       "name": "Arrow Shield",
-      "formattedName": "§#87dd47ff§lArrow Shield",
+      "formattedName": [
+        {
+          "text": "Arrow Shield",
+          "bold": true,
+          "font": "default",
+          "color": "#87dd47ff"
+        }
+      ],
       "description": [
         [
           {
@@ -1553,7 +1623,14 @@
     {
       "id": 11,
       "name": "Windy Feet",
-      "formattedName": "§#ffe14dff§lWindy Feet",
+      "formattedName": [
+        {
+          "text": "Windy Feet",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -1699,7 +1776,14 @@
     {
       "id": 12,
       "name": "Air Mastery",
-      "formattedName": "§f§lAir Mastery",
+      "formattedName": [
+        {
+          "text": "Air Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -1809,7 +1893,14 @@
     {
       "id": 13,
       "name": "Thunder Mastery",
-      "formattedName": "§f§lThunder Mastery",
+      "formattedName": [
+        {
+          "text": "Thunder Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -1921,7 +2012,14 @@
     {
       "id": 14,
       "name": "Fire Mastery",
-      "formattedName": "§f§lFire Mastery",
+      "formattedName": [
+        {
+          "text": "Fire Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -2032,7 +2130,14 @@
     {
       "id": 15,
       "name": "Water Mastery",
-      "formattedName": "§f§lWater Mastery",
+      "formattedName": [
+        {
+          "text": "Water Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -2142,7 +2247,14 @@
     {
       "id": 16,
       "name": "Earth Mastery",
-      "formattedName": "§f§lEarth Mastery",
+      "formattedName": [
+        {
+          "text": "Earth Mastery",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -2252,7 +2364,14 @@
     {
       "id": 17,
       "name": "Buckshot",
-      "formattedName": "§#ffe14dff§lBuckshot",
+      "formattedName": [
+        {
+          "text": "Buckshot",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -2421,7 +2540,14 @@
     {
       "id": 18,
       "name": "Nimble String",
-      "formattedName": "§#f747c2ff§lNimble String",
+      "formattedName": [
+        {
+          "text": "Nimble String",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -2622,7 +2748,14 @@
     {
       "id": 19,
       "name": "Bryophyte Roots",
-      "formattedName": "§#f747c2ff§lBryophyte Roots",
+      "formattedName": [
+        {
+          "text": "Bryophyte Roots",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -2906,7 +3039,14 @@
     {
       "id": 20,
       "name": "Fire Creep",
-      "formattedName": "§#f747c2ff§lFire Creep",
+      "formattedName": [
+        {
+          "text": "Fire Creep",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -3136,7 +3276,14 @@
     {
       "id": 21,
       "name": "Phantom Ray",
-      "formattedName": "§#99e9ffff§lPhantom Ray",
+      "formattedName": [
+        {
+          "text": "Phantom Ray",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -3429,7 +3576,14 @@
     {
       "id": 22,
       "name": "Frenzy",
-      "formattedName": "§#f747c2ff§lFrenzy",
+      "formattedName": [
+        {
+          "text": "Frenzy",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -3516,7 +3670,14 @@
     {
       "id": 23,
       "name": "Triple Shots",
-      "formattedName": "§#ffe14dff§lTriple Shots",
+      "formattedName": [
+        {
+          "text": "Triple Shots",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -3625,7 +3786,14 @@
     {
       "id": 24,
       "name": "Guardian Angels",
-      "formattedName": "§#ff4545ff§lGuardian Angels",
+      "formattedName": [
+        {
+          "text": "Guardian Angels",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -3899,7 +4067,14 @@
     {
       "id": 25,
       "name": "Basaltic Trap",
-      "formattedName": "§#ff4545ff§lBasaltic Trap",
+      "formattedName": [
+        {
+          "text": "Basaltic Trap",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -4187,7 +4362,14 @@
     {
       "id": 26,
       "name": "Focus",
-      "formattedName": "§#ff4545ff§lFocus",
+      "formattedName": [
+        {
+          "text": "Focus",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -4332,7 +4514,14 @@
     {
       "id": 27,
       "name": "Windstorm",
-      "formattedName": "§#99e9ffff§lWindstorm",
+      "formattedName": [
+        {
+          "text": "Windstorm",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -4598,7 +4787,14 @@
     {
       "id": 28,
       "name": "Cheaper Arrow Storm",
-      "formattedName": "§f§lCheaper Arrow Storm",
+      "formattedName": [
+        {
+          "text": "Cheaper Arrow Storm",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -4677,7 +4873,14 @@
     {
       "id": 29,
       "name": "Implosion",
-      "formattedName": "§#ffe14dff§lImplosion",
+      "formattedName": [
+        {
+          "text": "Implosion",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -4849,7 +5052,14 @@
     {
       "id": 30,
       "name": "Arrow Wall",
-      "formattedName": "§f§lArrow Wall",
+      "formattedName": [
+        {
+          "text": "Arrow Wall",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -4932,7 +5142,14 @@
     {
       "id": 31,
       "name": "Stormy Feet",
-      "formattedName": "§#ffe14dff§lStormy Feet",
+      "formattedName": [
+        {
+          "text": "Stormy Feet",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -5055,7 +5272,14 @@
     {
       "id": 32,
       "name": "Arsenal Synergy",
-      "formattedName": "§#ffe14dff§lArsenal Synergy",
+      "formattedName": [
+        {
+          "text": "Arsenal Synergy",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -5223,7 +5447,14 @@
     {
       "id": 33,
       "name": "Patient Hunter",
-      "formattedName": "§#f747c2ff§lPatient Hunter",
+      "formattedName": [
+        {
+          "text": "Patient Hunter",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -5337,7 +5568,14 @@
     {
       "id": 34,
       "name": "Grappling Hook",
-      "formattedName": "§#ffe14dff§lGrappling Hook",
+      "formattedName": [
+        {
+          "text": "Grappling Hook",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -5450,7 +5688,14 @@
     {
       "id": 35,
       "name": "More Focus",
-      "formattedName": "§f§lMore Focus",
+      "formattedName": [
+        {
+          "text": "More Focus",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -5533,7 +5778,14 @@
     {
       "id": 36,
       "name": "Call of the Hound",
-      "formattedName": "§#99e9ffff§lCall of the Hound",
+      "formattedName": [
+        {
+          "text": "Call of the Hound",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -5738,7 +5990,14 @@
     {
       "id": 37,
       "name": "Phantom Force",
-      "formattedName": "§#ffe14dff§lPhantom Force",
+      "formattedName": [
+        {
+          "text": "Phantom Force",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -5837,7 +6096,14 @@
     {
       "id": 38,
       "name": "Leap",
-      "formattedName": "§#f747c2ff§lLeap",
+      "formattedName": [
+        {
+          "text": "Leap",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -5925,7 +6191,14 @@
     {
       "id": 39,
       "name": "Grape Bomb",
-      "formattedName": "§#99e9ffff§lGrape Bomb",
+      "formattedName": [
+        {
+          "text": "Grape Bomb",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -6123,7 +6396,14 @@
     {
       "id": 40,
       "name": "Ivyroot Mamba",
-      "formattedName": "§#99e9ffff§lIvyroot Mamba",
+      "formattedName": [
+        {
+          "text": "Ivyroot Mamba",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -6436,7 +6716,14 @@
     {
       "id": 41,
       "name": "Twain\u0027s Arc",
-      "formattedName": "§#99e9ffff§lTwain\u0027s Arc",
+      "formattedName": [
+        {
+          "text": "Twain\u0027s Arc",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -6615,7 +6902,14 @@
     {
       "id": 42,
       "name": "Shrapnel Bomb",
-      "formattedName": "§#f747c2ff§lShrapnel Bomb",
+      "formattedName": [
+        {
+          "text": "Shrapnel Bomb",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -6804,7 +7098,14 @@
     {
       "id": 43,
       "name": "Fierce Stomp",
-      "formattedName": "§#ffe14dff§lFierce Stomp",
+      "formattedName": [
+        {
+          "text": "Fierce Stomp",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -7038,7 +7339,14 @@
     {
       "id": 44,
       "name": "Rocket Jump",
-      "formattedName": "§#ffe14dff§lRocket Jump",
+      "formattedName": [
+        {
+          "text": "Rocket Jump",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -7096,7 +7404,14 @@
     {
       "id": 45,
       "name": "Scorched Earth",
-      "formattedName": "§f§lScorched Earth",
+      "formattedName": [
+        {
+          "text": "Scorched Earth",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -7282,7 +7597,14 @@
     {
       "id": 46,
       "name": "More Traps",
-      "formattedName": "§f§lMore Traps",
+      "formattedName": [
+        {
+          "text": "More Traps",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -7354,7 +7676,14 @@
     {
       "id": 47,
       "name": "Divine Intervention",
-      "formattedName": "§#ff4545ff§lDivine Intervention",
+      "formattedName": [
+        {
+          "text": "Divine Intervention",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -7582,7 +7911,14 @@
     {
       "id": 48,
       "name": "Cheaper Arrow Shield",
-      "formattedName": "§f§lCheaper Arrow Shield",
+      "formattedName": [
+        {
+          "text": "Cheaper Arrow Shield",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -7662,7 +7998,14 @@
     {
       "id": 49,
       "name": "Honed Shield",
-      "formattedName": "§f§lHoned Shield",
+      "formattedName": [
+        {
+          "text": "Honed Shield",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -7918,7 +8261,14 @@
     {
       "id": 50,
       "name": "Shocking Bomb",
-      "formattedName": "§#f747c2ff§lShocking Bomb",
+      "formattedName": [
+        {
+          "text": "Shocking Bomb",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -8089,7 +8439,14 @@
     {
       "id": 51,
       "name": "Bounding Stride",
-      "formattedName": "§f§lBounding Stride",
+      "formattedName": [
+        {
+          "text": "Bounding Stride",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -8160,7 +8517,14 @@
     {
       "id": 52,
       "name": "Homing Shots",
-      "formattedName": "§#99e9ffff§lHoming Shots",
+      "formattedName": [
+        {
+          "text": "Homing Shots",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -8231,7 +8595,14 @@
     {
       "id": 53,
       "name": "Recycling",
-      "formattedName": "§#f747c2ff§lRecycling",
+      "formattedName": [
+        {
+          "text": "Recycling",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -8298,7 +8669,14 @@
     {
       "id": 54,
       "name": "Mana Trap",
-      "formattedName": "§#ff4545ff§lMana Trap",
+      "formattedName": [
+        {
+          "text": "Mana Trap",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -8484,7 +8862,14 @@
     {
       "id": 55,
       "name": "Cheaper Escape II",
-      "formattedName": "§f§lCheaper Escape II",
+      "formattedName": [
+        {
+          "text": "Cheaper Escape II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -8562,7 +8947,14 @@
     {
       "id": 56,
       "name": "Initiator",
-      "formattedName": "§#f747c2ff§lInitiator",
+      "formattedName": [
+        {
+          "text": "Initiator",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [],
         [
@@ -8654,7 +9046,14 @@
     {
       "id": 57,
       "name": "Vigilant Sentinels",
-      "formattedName": "§#99e9ffff§lVigilant Sentinels",
+      "formattedName": [
+        {
+          "text": "Vigilant Sentinels",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -8993,7 +9392,14 @@
     {
       "id": 58,
       "name": "Traveler",
-      "formattedName": "§f§lTraveler",
+      "formattedName": [
+        {
+          "text": "Traveler",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -9059,7 +9465,14 @@
     {
       "id": 59,
       "name": "Murder Flock",
-      "formattedName": "§#99e9ffff§lMurder Flock",
+      "formattedName": [
+        {
+          "text": "Murder Flock",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -9317,7 +9730,14 @@
     {
       "id": 60,
       "name": "Decimator",
-      "formattedName": "§#f747c2ff§lDecimator",
+      "formattedName": [
+        {
+          "text": "Decimator",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -9439,7 +9859,14 @@
     {
       "id": 61,
       "name": "Phasing Beam",
-      "formattedName": "§#f747c2ff§lPhasing Beam",
+      "formattedName": [
+        {
+          "text": "Phasing Beam",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -9620,7 +10047,14 @@
     {
       "id": 62,
       "name": "Spectral Hover",
-      "formattedName": "§#ffe14dff§lSpectral Hover",
+      "formattedName": [
+        {
+          "text": "Spectral Hover",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -9701,7 +10135,14 @@
     {
       "id": 63,
       "name": "Bouncing Bomb",
-      "formattedName": "§#ffe14dff§lBouncing Bomb",
+      "formattedName": [
+        {
+          "text": "Bouncing Bomb",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -9767,7 +10208,14 @@
     {
       "id": 64,
       "name": "Parting Gift",
-      "formattedName": "§#ffe14dff§lParting Gift",
+      "formattedName": [
+        {
+          "text": "Parting Gift",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -9985,7 +10433,14 @@
     {
       "id": 65,
       "name": "Cheaper Arrow Storm II",
-      "formattedName": "§f§lCheaper Arrow Storm II",
+      "formattedName": [
+        {
+          "text": "Cheaper Arrow Storm II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -10064,7 +10519,14 @@
     {
       "id": 66,
       "name": "Cheaper Arrow Shield II",
-      "formattedName": "§f§lCheaper Arrow Shield II",
+      "formattedName": [
+        {
+          "text": "Cheaper Arrow Shield II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -10145,7 +10607,14 @@
     {
       "id": 67,
       "name": "Hookshot",
-      "formattedName": "§f§lHookshot",
+      "formattedName": [
+        {
+          "text": "Hookshot",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -10245,7 +10714,14 @@
     {
       "id": 68,
       "name": "Ghostly Trigger",
-      "formattedName": "§#99e9ffff§lGhostly Trigger",
+      "formattedName": [
+        {
+          "text": "Ghostly Trigger",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -10366,7 +10842,14 @@
     {
       "id": 69,
       "name": "Coursing Restraints",
-      "formattedName": "§#99e9ffff§lCoursing Restraints",
+      "formattedName": [
+        {
+          "text": "Coursing Restraints",
+          "bold": true,
+          "font": "default",
+          "color": "#99e9ffff"
+        }
+      ],
       "description": [
         [
           {
@@ -10505,7 +10988,14 @@
     {
       "id": 70,
       "name": "Arrow Hurricane",
-      "formattedName": "§#ff4545ff§lArrow Hurricane",
+      "formattedName": [
+        {
+          "text": "Arrow Hurricane",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -10625,7 +11115,14 @@
     {
       "id": 71,
       "name": "Beast Lore",
-      "formattedName": "§f§lBeast Lore",
+      "formattedName": [
+        {
+          "text": "Beast Lore",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -10815,7 +11312,14 @@
     {
       "id": 72,
       "name": "Tangled Traps",
-      "formattedName": "§#f747c2ff§lTangled Traps",
+      "formattedName": [
+        {
+          "text": "Tangled Traps",
+          "bold": true,
+          "font": "default",
+          "color": "#f747c2ff"
+        }
+      ],
       "description": [
         [
           {
@@ -11037,7 +11541,14 @@
     {
       "id": 73,
       "name": "Crepuscular Ray",
-      "formattedName": "§#ff4545ff§lCrepuscular Ray",
+      "formattedName": [
+        {
+          "text": "Crepuscular Ray",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -11326,7 +11837,14 @@
     {
       "id": 74,
       "name": "Elusive",
-      "formattedName": "§#ffe14dff§lElusive",
+      "formattedName": [
+        {
+          "text": "Elusive",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [],
         [
@@ -11399,7 +11917,14 @@
     {
       "id": 75,
       "name": "Chilling Snare",
-      "formattedName": "§#ff4545ff§lChilling Snare",
+      "formattedName": [
+        {
+          "text": "Chilling Snare",
+          "bold": true,
+          "font": "default",
+          "color": "#ff4545ff"
+        }
+      ],
       "description": [
         [
           {
@@ -11746,7 +12271,14 @@
     {
       "id": 76,
       "name": "Pyrotechnics",
-      "formattedName": "§#ffe14dff§lPyrotechnics",
+      "formattedName": [
+        {
+          "text": "Pyrotechnics",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -12051,7 +12583,14 @@
     {
       "id": 77,
       "name": "Swift Primer",
-      "formattedName": "§f§lSwift Primer",
+      "formattedName": [
+        {
+          "text": "Swift Primer",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -12165,7 +12704,14 @@
     {
       "id": 78,
       "name": "More Focus II",
-      "formattedName": "§f§lMore Focus II",
+      "formattedName": [
+        {
+          "text": "More Focus II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -12247,7 +12793,14 @@
     {
       "id": 79,
       "name": "Snow Storm",
-      "formattedName": "§#ffe14dff§lSnow Storm",
+      "formattedName": [
+        {
+          "text": "Snow Storm",
+          "bold": true,
+          "font": "default",
+          "color": "#ffe14dff"
+        }
+      ],
       "description": [
         [
           {
@@ -12350,7 +12903,14 @@
     {
       "id": 80,
       "name": "Cheaper Arrow Bomb II",
-      "formattedName": "§f§lCheaper Arrow Bomb II",
+      "formattedName": [
+        {
+          "text": "Cheaper Arrow Bomb II",
+          "bold": true,
+          "font": "default",
+          "color": "#ffffffff"
+        }
+      ],
       "description": [
         [
           {
@@ -12424,9 +12984,16 @@
     }
   ],
   "archetypeInfoMap": {
-    "dae069ff": {
-      "name": "dae069ff",
-      "formattedName": "§#dae069ff§lBoltslinger Archetype",
+    "Boltslinger": {
+      "name": "Boltslinger",
+      "formattedName": [
+        {
+          "text": "Boltslinger Archetype",
+          "bold": true,
+          "font": "default",
+          "color": "#dae069ff"
+        }
+      ],
       "description": [
         " ",
         "§7Boltslingers deal massive",
@@ -12438,9 +13005,16 @@
         "modelData": 193.0
       }
     },
-    "87dd47ff": {
-      "name": "87dd47ff",
-      "formattedName": "§#87dd47ff§lTrapper Archetype",
+    "Trapper": {
+      "name": "Trapper",
+      "formattedName": [
+        {
+          "text": "Trapper Archetype",
+          "bold": true,
+          "font": "default",
+          "color": "#87dd47ff"
+        }
+      ],
       "description": [
         " ",
         "§7Trappers can trap enemies and",
@@ -12451,9 +13025,16 @@
         "modelData": 195.0
       }
     },
-    "eb3dfeff": {
-      "name": "eb3dfeff",
-      "formattedName": "§#eb3dfeff§lSharpshooter Archetype",
+    "Sharpshooter": {
+      "name": "Sharpshooter",
+      "formattedName": [
+        {
+          "text": "Sharpshooter Archetype",
+          "bold": true,
+          "font": "default",
+          "color": "#eb3dfeff"
+        }
+      ],
       "description": [
         " ",
         "§7Sharpshooters excel at aiming",
