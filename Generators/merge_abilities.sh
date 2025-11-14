@@ -14,7 +14,7 @@ echo "{}" > "$COMBINED_JSON"
 for FILE in "$CONTENT_DIR"/*_abilities.json; do
   KEY=$(basename "$FILE" | sed -E 's/(_abilities.json)//') # Extract 'x' from 'x_abilities.json'
 
-  jq --arg key "$KEY" --slurpfile content "$FILE" '.[$key] = $content' "$COMBINED_JSON" > tmp.json && mv tmp.json "$COMBINED_JSON"
+  jq --arg key "$KEY" --slurpfile content "$FILE" '.[$key] = $content[0]' "$COMBINED_JSON" > tmp.json && mv tmp.json "$COMBINED_JSON"
 done
 
 # Sort keys
