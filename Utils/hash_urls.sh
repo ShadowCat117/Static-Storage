@@ -3,7 +3,7 @@
 BASE_DIR="$(cd $(dirname "$0")/.. 2>/dev/null && pwd)"
 JSON_FILE="$BASE_DIR/Data-Storage/urls.json"
 TEMP_JSON_FILE="$BASE_DIR/Data-Storage/urls.json.tmp"
-REPO_BASE_URL="https://raw.githubusercontent.com/Wynntils/Static-Storage/main/"
+REPO_BASE_URL="https://raw.githubusercontent.com/ShadowCat117/Static-Storage/refs/heads/test/"
 
 # Function to calculate and update md5 for valid JSON entries
 update_md5() {
