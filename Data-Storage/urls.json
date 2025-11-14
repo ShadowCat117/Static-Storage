@@ -105,6 +105,11 @@
     "url": "https://raw.githubusercontent.com/Wynntils/Static-Storage/main/Reference/abilities.json"
   },
   {
+    "id": "dataStaticAbilitiesV2",
+    "md5": "d9edf29dac1909442a5e0cadf410b335",
+    "url": "https://raw.githubusercontent.com/Wynntils/Static-Storage/main/Reference/abilities_v2.json"
+  },
+  {
     "id": "dataStaticAspects",
     "md5": "b0776a3854203fcafd85c4ea4c4a7b00",
     "url": "https://raw.githubusercontent.com/Wynntils/Static-Storage/main/Reference/aspects.json"
