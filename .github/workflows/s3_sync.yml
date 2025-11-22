@@ -1,0 +1,32 @@
+name: Sync Files to S3
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'Data-Storage/urls.json'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+
+      - name: Upload Data-Storage folder
+        run: |
+          aws s3 sync Data-Storage s3://$S3_BUCKET_NAME/Data-Storage --delete --content-type application/json
+
+      - name: Upload Reference folder
+        run: |
+          aws s3 sync Reference s3://$S3_BUCKET_NAME/Reference --delete --content-type application/json
+
