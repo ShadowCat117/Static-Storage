@@ -56,6 +56,10 @@
     "url": "https://athena.wynntils.com/user/getInfo"
   },
   {
+    "id": "apiDeepLTranslation",
+    "url": "https://api.deepl.com/v2/translate"
+  },
+  {
     "arguments": [
       "lang",
       "text"
@@ -271,7 +275,7 @@
   },
   {
     "id": "dataStaticUrls",
-    "url": "https://raw.githubusercontent.com/Wynntils/Static-Storage/main/Data-Storage/urls.json"
+    "url": "https://raw.githubusercontent.com/ShadowCat117/Static-Storage/refs/heads/test2/Data-Storage/urls.json"
   },
   {
     "arguments": [
