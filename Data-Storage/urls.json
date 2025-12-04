@@ -57,6 +57,7 @@
   },
   {
     "id": "apiDeepLTranslation",
+    "method": "post",
     "url": "https://api.deepl.com/v2/translate"
   },
   {
