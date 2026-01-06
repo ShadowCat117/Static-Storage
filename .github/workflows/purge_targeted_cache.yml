@@ -1,0 +1,48 @@
+name: Purge Targeted Cache (Dry Run)
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+    paths:
+      - Data-Storage/urls.json
+
+jobs:
+  purge-files:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get changed files
+        env:
+          GH_TOKEN: ${{ secrets.PRIVATE_TOKEN }}
+        run: |
+          gh api \
+            repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files \
+            --paginate \
+            --jq '.[].filename' > files.txt
+
+          echo "=== Changed repository files ==="
+          cat files.txt
+
+      - name: Build Cloudflare purge URLs (dry run)
+        run: |
+          BASE="https://cdn.wynntils.com/static"
+
+          jq -R -s -c '
+            split("\n")
+            | map(select(length > 0))
+            | map("'"$BASE"'/" + .)
+          ' files.txt > purge_urls.json
+
+          echo ""
+          echo "=== CDN purge URLs ==="
+          jq -r '.[]' purge_urls.json
+
+      - name: Show final Cloudflare payload (dry run)
+        run: |
+          echo ""
+          echo "=== Cloudflare purge payload ==="
+          jq -c '{files: .}' purge_urls.json
