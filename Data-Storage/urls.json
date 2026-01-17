@@ -161,9 +161,9 @@
   },
   {
     "id": "dataStaticIdentificationKeys",
-    "md5": "745366b87899dfa650e7a9a2b0d5f4d3",
+    "md5": "1e8f797a6dad636673ad56723bf936cd",
     "path": "Reference/id_keys.json",
-    "url": "https://cdn.wynntils.com/static/Reference/id_keys.json"
+    "url": "https://raw.githubusercontent.com/ShadowCat117/Static-Storage/refs/heads/test3/Reference/id_keys.json"
   },
   {
     "id": "dataStaticIngredientSkins",
@@ -305,7 +305,7 @@
   },
   {
     "id": "dataStaticUrls",
-    "url": "https://cdn.wynntils.com/static/Data-Storage/urls.json"
+    "url": "https://raw.githubusercontent.com/ShadowCat117/Static-Storage/refs/heads/test3/Data-Storage/urls.json"
   },
   {
     "arguments": [
