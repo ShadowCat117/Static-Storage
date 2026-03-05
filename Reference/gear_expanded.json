@@ -69,7 +69,71 @@
       "strength": 45
     },
     "type": "weapon",
-    "weaponType": "relik"
+    "weaponType": "relik",
+    "jsonMajorIds": {
+      "Totemic Fuse": [
+        {
+          "text": "+Totemic Fuse: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Totemic Smash deals ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "+40%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ", ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#00AA00"
+        },
+        {
+          "text": "+90%",
+          "color": "#00AA00"
+        },
+        {
+          "text": ", ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFF55"
+        },
+        {
+          "text": "+90%",
+          "color": "#FFFF55"
+        },
+        {
+          "text": ", and ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "+60%",
+          "color": "#FF5555"
+        },
+        {
+          "text": " at the cost of half of Totem's duration.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Abandoned Tunic": {
     "armourMaterial": "pale_leather",
@@ -3969,7 +4033,19 @@
       "level": 97
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Freerunner": [
+        {
+          "text": "+Freerunner: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "When your sprint bar is under 30% full, increase your sprint speed by +150%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Air Relic Boots": {
     "armourMaterial": "pale_gold",
@@ -5811,7 +5887,19 @@
       "defence": 55,
       "level": 87
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Insoluble": [
+        {
+          "text": "+Insoluble: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Dissolution now lasts 2.5 seconds, but grants only 35% resistance.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Alkatraz": {
     "attackSpeed": "superSlow",
@@ -8481,7 +8569,19 @@
       "strength": 63
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Hurricane's Eye": [
+        {
+          "text": "+Hurricane's Eye: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Violent Vortex applies 2 marks to every enemy it hits.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Anno": {
     "accessoryType": "ring",
@@ -8865,7 +8965,58 @@
     "requirements": {
       "level": 90
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Reckless Abandon": [
+        {
+          "text": "+Reckless Abandon: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Sacrifice War Scream's defense bonus to give Tempest ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#00AA00"
+        },
+        {
+          "text": "+5%",
+          "color": "#00AA00"
+        },
+        {
+          "text": ", ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "+15%",
+          "color": "#FF5555"
+        },
+        {
+          "text": ", ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": "5%",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " and 3 extra hits.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Anti-Static": {
     "armourMaterial": "diamond",
@@ -9587,7 +9738,19 @@
       "dexterity": 70,
       "level": 97
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Alter Ego": [
+        {
+          "text": "+Alter Ego: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Awakened can be activated after saving 40% less mana, but its duration is reduced by 25%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Apex Predator": {
     "accessoryType": "necklace",
@@ -9710,7 +9873,32 @@
     "requirements": {
       "level": 70
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Paragon": [
+        {
+          "text": "+Paragon: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Shield Strike deals ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "600%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " damage. Mantle of the Bovemist's cooldown is reduced by 15s, but is limited to one shield charge.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Aphotic": {
     "armourMaterial": "diamond",
@@ -9836,7 +10024,84 @@
       "level": 81
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Hellfire": [
+        {
+          "text": "+Hellfire: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Bash is replaced by a single hit, gaining +3 radius and dealing ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "+85%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ", ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#00AA00"
+        },
+        {
+          "text": "+10%",
+          "color": "#00AA00"
+        },
+        {
+          "text": ", and ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "+60%",
+          "color": "#FF5555"
+        },
+        {
+          "text": ". Boiling Blood's cooldown is set to 2s, gains ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "+40%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ", ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "+50%",
+          "color": "#FF5555"
+        },
+        {
+          "text": ", and burns twice as fast for 1s, but can't slow.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Apology": {
     "attackSpeed": "verySlow",
@@ -10055,7 +10320,32 @@
       "strength": 25
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Paragon": [
+        {
+          "text": "+Paragon: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Shield Strike deals ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "600%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " damage. Mantle of the Bovemist's cooldown is reduced by 15s, but is limited to one shield charge.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Aquamarine": {
     "armourMaterial": "diamond",
@@ -13245,7 +13535,19 @@
       "level": 55
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Methodical": [
+        {
+          "text": "+Methodical: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Initiator's reset time is reduced by 75%. Arrow Bomb area damage is halved, but direct hit damage is doubled.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Audacity": {
     "armourMaterial": "pale_leather",
@@ -13864,7 +14166,19 @@
       "dexterity": 65,
       "level": 88
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Self-sufficient": [
+        {
+          "text": "+Self-sufficient: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Powder Specials can no longer be charged manually, but accumulate 8% charge every second.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Avalanche": {
     "armourMaterial": "chainmail",
@@ -14111,7 +14425,19 @@
       "strength": 25
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Windsurf": [
+        {
+          "text": "+Windsurf: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Righting Reflex has 75% reduced fall speed, lasts twice as long, and is affected stronger by movement speed.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Avocado": {
     "attackSpeed": "normal",
@@ -14354,7 +14680,19 @@
       "level": 92
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Reality Revision": [
+        {
+          "text": "+Reality Revision: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Phasing Beam instead makes Twain's Arc explode upon hitting an enemy, dealing its damage in a 5 block radius. Twain's Arc now has extreme recoil.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Axion": {
     "armourMaterial": "iron",
@@ -19829,7 +20167,19 @@
     "requirements": {
       "level": 101
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Find Thyself": [
+        {
+          "text": "+Find Thyself: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Masquerade now grants 75 Mana after switching between Masks 3 times.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Black Spear": {
     "attackSpeed": "slow",
@@ -21264,7 +21614,19 @@
       "level": 67
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Frenetic Spirit": [
+        {
+          "text": "+Frenetic Spirit: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Guardian Angels damage is set to 10%, but shoot 40% faster and last 5 times longer. Frenzy's cap is increased by 55.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Blightsaber": {
     "attackSpeed": "fast",
@@ -21398,7 +21760,32 @@
       "level": 90,
       "strength": 95
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Explosive Impact": [
+        {
+          "text": "+Explosive Impact: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Exploding gives an additional chance to deal ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "300%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " Main Attack damage in a radius of 5 blocks upon killing an enemy.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Blindblight": {
     "armourMaterial": "gold",
@@ -22045,7 +22432,19 @@
       "defence": 30,
       "level": 94
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Coagulate": [
+        {
+          "text": "+Coagulate: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Blood Connection and Eldritch Call's teleports launch you further and higher.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Bloodied Chaps": {
     "armourMaterial": "gold",
@@ -22412,7 +22811,71 @@
       "strength": 65
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Cherry Bombs": [
+        {
+          "text": "+Cherry Bombs: \n",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Turns Smoke Bomb into firecrackers that fly farther, tighter, and deal ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "100%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ", ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#00AA00"
+        },
+        {
+          "text": "30%",
+          "color": "#00AA00"
+        },
+        {
+          "text": ", ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "30%",
+          "color": "#FF5555"
+        },
+        {
+          "text": ", and ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": "30%",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " instantly.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Bloudil": {
     "armourMaterial": "iron",
@@ -22936,7 +23399,19 @@
       "strength": 65
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Vitriol": [
+        {
+          "text": "+Vitriol: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Uncontainable Corruption decreases Corrupted duration by 75% and gives drastically more damage, but disables Enraged Blow. Massacre adds 5 times as much corruption.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Blur": {
     "attackSpeed": "superFast",
@@ -24482,7 +24957,32 @@
       "strength": 37
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Perilous Flare": [
+        {
+          "text": "+Perilous Flare: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Pyrokinesis moves much slower, but has an increased Area of Effect and ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " +50%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ".",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Bottled Sky": {
     "armourMaterial": "diamond",
@@ -26484,7 +26984,45 @@
       "strength": 85
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Forest's Blessing": [
+        {
+          "text": "+Forest's Blessing: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Your hound gains increased movement speed, attack speed, vision, and ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "+60%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ". Arrow Bomb's damage is reduced by ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " -30%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ".",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Bridge of the Divide": {
     "armourMaterial": "chainmail",
@@ -28208,7 +28746,19 @@
       "dexterity": 20,
       "level": 52
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Combo Stomp": [
+        {
+          "text": "+Combo Stomp: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Landing directly on an enemy with Fierce Stomp sends you back into the air and resets Escape.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Buried Glory": {
     "attackSpeed": "superSlow",
@@ -31555,7 +32105,19 @@
       "strength": 50
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Displace": [
+        {
+          "text": "+Displace: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Wind Slash deals massive knockback to enemies hit by Teleport.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Carnivorous": {
     "accessoryType": "ring",
@@ -32086,7 +32648,19 @@
       "level": 51
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Rally": [
+        {
+          "text": "+Rally: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Cleansing Breeze heals you for 15% and allies for 20%, but Charge becomes harmless.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Cataract": {
     "attackSpeed": "superSlow",
@@ -33348,7 +33922,19 @@
       "level": 100
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Meteor Crash": [
+        {
+          "text": "+Meteor Crash: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Burning Sigil gains +6 radius and deals double the damage, but lasts half as long.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Ceremonial Skirt": {
     "armourMaterial": "pale_iron",
@@ -40386,7 +40972,19 @@
       "intelligence": 40,
       "level": 75
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Flashfreeze": [
+        {
+          "text": "+Flashfreeze: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Ice Snake travels instantly.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Collapse": {
     "attackSpeed": "verySlow",
@@ -40476,7 +41074,19 @@
       "strength": 35
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Fission": [
+        {
+          "text": "+Fission: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Explosions from your Exploding ID are twice as big and twice as strong.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Collection": {
     "accessoryType": "necklace",
@@ -41730,7 +42340,71 @@
       "agility": 65,
       "level": 78
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Cherry Bombs": [
+        {
+          "text": "+Cherry Bombs: \n",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Turns Smoke Bomb into firecrackers that fly farther, tighter, and deal ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "100%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ", ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#00AA00"
+        },
+        {
+          "text": "30%",
+          "color": "#00AA00"
+        },
+        {
+          "text": ", ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "30%",
+          "color": "#FF5555"
+        },
+        {
+          "text": ", and ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": "30%",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " instantly.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Constrict Collar": {
     "accessoryType": "necklace",
@@ -46379,7 +47053,19 @@
       "dexterity": 50,
       "level": 55
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Entropy": [
+        {
+          "text": "+Entropy: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Meteor's speed is increased by 50%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Crusade Sabatons": {
     "armourMaterial": "diamond",
@@ -48303,7 +48989,32 @@
       "dexterity": 80,
       "level": 96
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Perilous Flare": [
+        {
+          "text": "+Perilous Flare: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Pyrokinesis moves much slower, but has an increased Area of Effect and ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " +50%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ".",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Cytotoxic Striders": {
     "armourMaterial": "diamond",
@@ -48373,7 +49084,19 @@
       "level": 99,
       "strength": 60
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Plague": [
+        {
+          "text": "+Plague: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Poisoned mobs spread their poison to nearby mobs.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Czytash's Compass": {
     "accessoryType": "bracelet",
@@ -48640,7 +49363,32 @@
       "level": 94
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Space Glide": [
+        {
+          "text": "+Space Glide: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Lacerate performs a single horizontal jump and slash, dealing ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "400%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ".",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Dance Boots": {
     "armourMaterial": "chainmail",
@@ -49062,7 +49810,19 @@
       "agility": 45,
       "level": 92
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Lunge": [
+        {
+          "text": "+Lunge: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Hop and Leap's horizontal velocity is greatly increased.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Dark Ambience": {
     "attackSpeed": "veryFast",
@@ -49406,7 +50166,19 @@
       "level": 100,
       "strength": 45
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Intangible": [
+        {
+          "text": "+Intangible: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "The knockback you take is drastically reduced, and reflected damage deals large knockback.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Dark Needle": {
     "attackSpeed": "fast",
@@ -50704,7 +51476,45 @@
     },
     "restrictions": "untradable",
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Fan the Hammer": [
+        {
+          "text": "+Fan the Hammer: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "\nArrow Storm becomes a single stream of 6 high-powered arrows that deal ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "90%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " and ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFF55"
+        },
+        {
+          "text": "35%",
+          "color": "#FFFF55"
+        },
+        {
+          "text": ". ",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Deark": {
     "accessoryType": "ring",
@@ -51215,7 +52025,19 @@
       "strength": 45
     },
     "type": "weapon",
-    "weaponType": "relik"
+    "weaponType": "relik",
+    "jsonMajorIds": {
+      "Gruesome Knots": [
+        {
+          "text": "+Gruesome Knots: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Bleeding and Twisted Tether deal double damage, but Bleeding duration is reduced.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Decaying Headdress": {
     "armourMaterial": "iron",
@@ -51890,7 +52712,32 @@
       "level": 84
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Lustrate": [
+        {
+          "text": "+Lustrate: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Heal restores health at a slower rate, but Searing Light deals ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "+150%",
+          "color": "#55FFFF"
+        },
+        {
+          "text": ".",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Deluge": {
     "armourMaterial": "chainmail",
@@ -53438,7 +54285,41 @@
       "level": 80
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Last Resort": [
+        {
+          "text": "+Last Resort: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Bloodlust has doubled corrupted scaling and knockback, but deals ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "-100% ",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "-60%",
+          "color": "#FF5555"
+        },
+        {
+          "text": ".",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Desperation": {
     "attackSpeed": "superFast",
@@ -56957,7 +57838,19 @@
     "requirements": {
       "level": 73
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Mangle": [
+        {
+          "text": "+Mangle: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Lacerate will deal +1 slash.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Disintegrator": {
     "attackSpeed": "normal",
@@ -58467,7 +59360,19 @@
       "level": 79,
       "quest": "Realm of Light V - The Realm of Light"
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Lightweight": [
+        {
+          "text": "+Lightweight: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "You no longer take fall damage.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Double-Edge": {
     "attackSpeed": "fast",
@@ -63344,7 +64249,19 @@
       "agility": 90,
       "level": 88
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Sorcery": [
+        {
+          "text": "+Sorcery: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "25% chance for spells and attacks to cast a second time at no additional cost.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Echolocation": {
     "attackSpeed": "veryFast",
@@ -65135,7 +66052,19 @@
       "strength": 55
     },
     "restrictions": "untradable",
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Saviour's Sacrifice": [
+        {
+          "text": "+Saviour's Sacrifice: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "While under 50% maximum health, nearby allies gain 15% bonus damage and defence.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Elf Cap": {
     "armourMaterial": "pale_chainmail",
@@ -66047,7 +66976,32 @@
       "intelligence": 50,
       "level": 103
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Divine Honor": [
+        {
+          "text": "+Divine Honor: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Increases the bonus from Radiance by 10%. Bash deals ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#00AA00"
+        },
+        {
+          "text": "-15%",
+          "color": "#00AA00"
+        },
+        {
+          "text": " per hit.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Enchanter": {
     "attackSpeed": "slow",
@@ -68352,7 +69306,19 @@
       "defence": 55,
       "level": 92
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Cavalryman": [
+        {
+          "text": "+Cavalryman: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "You may cast spells and attack with a -30% damage penalty while on a horse.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Eradian Cuissards": {
     "armourMaterial": "diamond",
@@ -70926,7 +71892,19 @@
       "level": 37,
       "strength": 20
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Sun Eater": [
+        {
+          "text": "+Sun Eater: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Failing to backstab an enemy from behind blinds them for 0.5s and slows them by 20% for 5s.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Famine": {
     "accessoryType": "ring",
@@ -74038,7 +75016,19 @@
       "level": 95
     },
     "restrictions": "untradable",
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Phoenix-Born": [
+        {
+          "text": "+Phoenix-Born:",
+          "color": "#AAAAAA"
+        },
+        {
+          "text": " Health Regeneration is increased by 0.75% for every 1% Health missing.",
+          "color": "#55FFFF"
+        }
+      ]
+    }
   },
   "Firecloud": {
     "accessoryType": "ring",
@@ -74849,7 +75839,19 @@
       "strength": 40
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Temblor": [
+        {
+          "text": "+Temblor: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Bash gains +1 Area of Effect and is 0.05s faster.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Flagellant": {
     "attackSpeed": "slow",
@@ -79257,7 +80259,19 @@
       "strength": 40
     },
     "restrictions": "untradable",
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Pounce": [
+        {
+          "text": "+Pounce: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Escape becomes a forward lunge.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Foot Warmers": {
     "armourMaterial": "chainmail",
@@ -79797,7 +80811,19 @@
       "level": 98
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Scarce Comfort": [
+        {
+          "text": "+Scarce Comfort: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Freestream Flow becomes slightly stronger and lasts indefinitely.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Formation": {
     "accessoryType": "bracelet",
@@ -81899,7 +82925,32 @@
       "agility": 35,
       "level": 40
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Juggle": [
+        {
+          "text": "+Juggle: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Mutilate adds an additional 12 hits. All hits are reduced by ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "-10%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ".",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Funnel": {
     "armourMaterial": "pale_leather",
@@ -82350,7 +83401,28 @@
       "strength": 105
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Earthen Splinter": [
+        {
+          "text": "+Earthen Splinter: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Quake channels nature energy into a powerful root, travelling underground and emerging under the nearest mob for ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "1200%",
+          "color": "#FFAA00"
+        }
+      ]
+    }
   },
   "Galaxy Piercer": {
     "attackSpeed": "normal",
@@ -82847,7 +83919,19 @@
       "level": 40,
       "strength": 25
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Cavalryman": [
+        {
+          "text": "+Cavalryman: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "You may cast spells and attack with a -30% damage penalty while on a horse.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Galvanization": {
     "armourMaterial": "diamond",
@@ -86898,7 +87982,19 @@
       "intelligence": 80,
       "level": 89
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Geocentrism": [
+        {
+          "text": "+Geocentrism: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Aura radiates from you instead of your Totem and can be cast any time.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Goblin Arm Bracer": {
     "accessoryType": "bracelet",
@@ -88661,7 +89757,19 @@
       "strength": 45
     },
     "type": "weapon",
-    "weaponType": "relik"
+    "weaponType": "relik",
+    "jsonMajorIds": {
+      "Ergosphere": [
+        {
+          "text": "+Ergosphere:",
+          "color": "#AAAAAA"
+        },
+        {
+          "text": " Storm Dance instead lets your Totems pull enemies within their radius. Totem duration is decreased.",
+          "color": "#55FFFF"
+        }
+      ]
+    }
   },
   "Grandfather": {
     "attackSpeed": "verySlow",
@@ -89129,7 +90237,19 @@
       "level": 84,
       "strength": 75
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Rock Shield": [
+        {
+          "text": "+Rock Shield: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Arrow Shield's defense is increased by 10%, but its number of charges is reduced by 1.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Grateful Dead": {
     "attackSpeed": "superSlow",
@@ -89457,7 +90577,19 @@
       "level": 100,
       "strength": 50
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Magnet": [
+        {
+          "text": "+Magnet: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Pulls items dropped by mobs towards you.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Great Brace": {
     "accessoryType": "bracelet",
@@ -91061,7 +92193,19 @@
       "level": 93
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Guardian": [
+        {
+          "text": "+Guardian: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "35% of damage taken by nearby allies is redirected to you.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Guardian Loop": {
     "accessoryType": "ring",
@@ -91572,7 +92716,19 @@
       "dexterity": 65,
       "level": 91
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Sublimation": [
+        {
+          "text": "+Sublimation: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Totemic Shatter heals 75% of Regeneration's usual amount at the cost of 2 blocks of radius.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Hadal": {
     "attackSpeed": "superSlow",
@@ -92175,7 +93331,111 @@
       "level": 102
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Efflorescence": [
+        {
+          "text": "+Efflorescence: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Jasmine Bloom deals ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "25%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " and \n",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#00AA00"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFF55"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": "25%",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " at the cost of 6 blocks of vertical range. \nSwan Dive deals ",
+          "color": "#FF5555"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "16%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " and ",
+          "color": "#FF5555"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#00AA00"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFF55"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": "16%",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": ".",
+          "color": "#FF5555"
+        }
+      ]
+    }
   },
   "Handcuff": {
     "accessoryType": "bracelet",
@@ -93740,7 +95000,19 @@
       "strength": 50
     },
     "restrictions": "untradable",
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Altruism": [
+        {
+          "text": "+Altruism: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Nearby players gain 100% of the health you gain from Health Regen and Life Steal.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Hearts Club": {
     "attackSpeed": "slow",
@@ -94022,7 +95294,19 @@
       "level": 57
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Flashfreeze": [
+        {
+          "text": "+Flashfreeze: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Ice Snake travels instantly.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Heat Sink": {
     "armourMaterial": "diamond",
@@ -94713,7 +95997,19 @@
       "dexterity": 45,
       "level": 73
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Gentle Glow": [
+        {
+          "text": "+Gentle Glow: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Orphion's Pulse restores up to 25% more max health to allies, but heals at a slower rate. Fluid Healing's effectiveness is increased by 150%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Hell Walk": {
     "armourMaterial": "iron",
@@ -96069,7 +97365,45 @@
       "strength": 55
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Fallout": [
+        {
+          "text": "+Fallout: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Bomb Arrow gains +7.5 range, ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "+50%",
+          "color": "#FF5555"
+        },
+        {
+          "text": ", severely increased recoil, and ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "25%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " self-damage.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Hero": {
     "attackSpeed": "veryFast",
@@ -96132,7 +97466,19 @@
       "level": 91
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Saviour's Sacrifice": [
+        {
+          "text": "+Saviour's Sacrifice: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "While under 50% maximum health, nearby allies gain 15% bonus damage and defence.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Hero's Beginning": {
     "armourMaterial": "gold",
@@ -96424,7 +97770,19 @@
       "strength": 50
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Fission": [
+        {
+          "text": "+Fission: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Explosions from your Exploding ID are twice as big and twice as strong.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Hetusol": {
     "armourMaterial": "diamond",
@@ -100236,7 +101594,19 @@
       "level": 95
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Tidal Drift": [
+        {
+          "text": "+Tidal Drift: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Flying Kick will instead send\nyou forwards.\nThis effect is limited to once per Charge cast.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Ife": {
     "armourMaterial": "chainmail",
@@ -100442,7 +101812,19 @@
       "level": 95
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Altruism": [
+        {
+          "text": "+Altruism: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Nearby players gain 100% of the health you gain from Health Regen and Life Steal.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Ignition": {
     "attackSpeed": "veryFast",
@@ -100918,7 +102300,19 @@
       "level": 66,
       "strength": 40
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Flashfreeze": [
+        {
+          "text": "+Flashfreeze: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Ice Snake travels instantly.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Impeccable Andesite Bow": {
     "attackSpeed": "verySlow",
@@ -103751,7 +105145,19 @@
       "dexterity": 20,
       "level": 73
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Rally": [
+        {
+          "text": "+Rally: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Cleansing Breeze heals you for 15% and allies for 20%, but Charge becomes harmless.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Inferno": {
     "attackSpeed": "verySlow",
@@ -103901,7 +105307,19 @@
       "level": 65
     },
     "type": "weapon",
-    "weaponType": "relik"
+    "weaponType": "relik",
+    "jsonMajorIds": {
+      "Geocentrism": [
+        {
+          "text": "+Geocentrism: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Aura radiates from you instead of your Totem and can be cast any time.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Infidel": {
     "attackSpeed": "superSlow",
@@ -104209,7 +105627,19 @@
       "strength": 15
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Evershot": [
+        {
+          "text": "+Evershot: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Arrow Hurricane becomes a consistent, straight stream of arrows with a slower fire rate, dealing greater knockback and triple damage per arrow.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Influence": {
     "attackSpeed": "normal",
@@ -105059,7 +106489,36 @@
       "dexterity": 75,
       "level": 100
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Superconductor": [
+        {
+          "text": "+Superconductor:",
+          "color": "#AAAAAA"
+        },
+        {
+          "text": " Chain Lightning channels three massive lightning bolts through you, arcing to enemies within 8 blocks for",
+          "color": "#55FFFF"
+        },
+        {
+          "text": " ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFF55"
+        },
+        {
+          "text": "225%",
+          "color": "#FFFF55"
+        },
+        {
+          "text": " and stunning them for 1s. You take 10% more damage for 4s.",
+          "color": "#55FFFF"
+        }
+      ]
+    }
   },
   "Insulated Plate Mail": {
     "armourMaterial": "diamond",
@@ -105758,7 +107217,19 @@
       "defence": 70,
       "level": 84
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Temblor": [
+        {
+          "text": "+Temblor: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Bash gains +1 Area of Effect and is 0.05s faster.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Iris": {
     "attackSpeed": "slow",
@@ -108547,7 +110018,19 @@
       "level": 66,
       "strength": 50
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Brachiate": [
+        {
+          "text": "+Brachiate: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Grappling Hook has 25% increased range and increased velocity.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Jungle Sludge": {
     "armourMaterial": "chainmail",
@@ -110067,7 +111550,19 @@
       "level": 91,
       "strength": 80
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Soul Eater": [
+        {
+          "text": "+Soul Eater: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Devour and Harvester grant double mana. Decreases maximum marks by 1.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Kekkai": {
     "attackSpeed": "slow",
@@ -111923,7 +113418,32 @@
       "strength": 70
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Twisting Threads": [
+        {
+          "text": "+Twisting Threads: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Tangled Traps ropes gain +1 range, can overlap up to 3 times, and deal ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "50%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ". Gain +12 traps with 66% duration that cannot be triggered by enemies.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Lacerator": {
     "attackSpeed": "fast",
@@ -112055,7 +113575,19 @@
       "dexterity": 40,
       "level": 86
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Entropy": [
+        {
+          "text": "+Entropy: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Meteor's speed is increased by 50%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Laen's Curiosity": {
     "accessoryType": "bracelet",
@@ -118248,7 +119780,19 @@
       "level": 38,
       "strength": 30
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Lunge": [
+        {
+          "text": "+Lunge: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Hop and Leap's horizontal velocity is greatly increased.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Lurrun": {
     "armourMaterial": "iron",
@@ -120439,7 +121983,19 @@
       "strength": 45
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Sorcery": [
+        {
+          "text": "+Sorcery: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "25% chance for spells and attacks to cast a second time at no additional cost.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Malfunction": {
     "attackSpeed": "veryFast",
@@ -121278,7 +122834,19 @@
       "strength": 40
     },
     "type": "weapon",
-    "weaponType": "relik"
+    "weaponType": "relik",
+    "jsonMajorIds": {
+      "Strings of Fate": [
+        {
+          "text": "+Strings of Fate: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Your puppets have a lifetime of 3 seconds and deal double damage with attacks and explosions.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Maritime Cavaliers": {
     "armourMaterial": "iron",
@@ -123875,7 +125443,32 @@
       "level": 98
     },
     "type": "weapon",
-    "weaponType": "relik"
+    "weaponType": "relik",
+    "jsonMajorIds": {
+      "Faustian Gambit": [
+        {
+          "text": "+Faustian Gambit: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Frog Dance triggers once with increased vertical velocity and knockback, and deals ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFF55"
+        },
+        {
+          "text": "+400%",
+          "color": "#FFFF55"
+        },
+        {
+          "text": ".",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Mercenary Hood": {
     "armourMaterial": "pale_leather",
@@ -125413,7 +127006,19 @@
       "intelligence": 45,
       "level": 95
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Sun Eater": [
+        {
+          "text": "+Sun Eater: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Failing to backstab an enemy from behind blinds them for 0.5s and slows them by 20% for 5s.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Minor": {
     "accessoryType": "ring",
@@ -126971,7 +128576,19 @@
       "level": 55,
       "strength": 15
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Temblor": [
+        {
+          "text": "+Temblor: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Bash gains +1 Area of Effect and is 0.05s faster.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Molten Flow": {
     "armourMaterial": "diamond",
@@ -127310,7 +128927,19 @@
       "level": 54
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Hurricane's Eye": [
+        {
+          "text": "+Hurricane's Eye: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Violent Vortex applies 2 marks to every enemy it hits.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Monster": {
     "attackSpeed": "slow",
@@ -130681,7 +132310,19 @@
       "strength": 70
     },
     "type": "weapon",
-    "weaponType": "relik"
+    "weaponType": "relik",
+    "jsonMajorIds": {
+      "Geocentrism": [
+        {
+          "text": "+Geocentrism: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Aura radiates from you instead of your Totem and can be cast any time.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Narima Pasukan": {
     "armourMaterial": "chainmail",
@@ -132641,7 +134282,19 @@
       "level": 55
     },
     "restrictions": "untradable",
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Fright or Flight": [
+        {
+          "text": "+Fright or Flight: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Plays spooky tunes.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Nevermore": {
     "armourMaterial": "gold",
@@ -133103,7 +134756,58 @@
     "requirements": {
       "level": 94
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Hawkeye": [
+        {
+          "text": "+Hawkeye: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Arrow Hurricane becomes a condensed stream of 25 arrows, dealing ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "33%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ", ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFF55"
+        },
+        {
+          "text": "4%",
+          "color": "#FFFF55"
+        },
+        {
+          "text": ", and ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": "4%",
+          "color": "#FFFFFF"
+        },
+        {
+          "text": " each.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Nightlife": {
     "attackSpeed": "normal",
@@ -133756,7 +135460,19 @@
       "level": 97
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Transcendence": [
+        {
+          "text": "+Transcendence: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "25% chance for spells to cost no mana when casted.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Nitre": {
     "armourMaterial": "chainmail",
@@ -134971,7 +136687,45 @@
       "level": 105,
       "strength": 60
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Napalm": [
+        {
+          "text": "+Napalm: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Fire Creep increases Arrow Bomb damage by ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "+15%",
+          "color": "#FF5555"
+        },
+        {
+          "text": ", but deals 15 times the self-damage and lowers velocity. Scorched Earth radius is increased and deals ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "+65%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ".",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Nucleoken": {
     "attackSpeed": "fast",
@@ -135180,7 +136934,19 @@
       "strength": 30
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Punishment": [
+        {
+          "text": "+Punishment: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Reflected damage blinds enemies for 1s and makes them 10% more vulnerable to attacks for 3s.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Nutrition": {
     "accessoryType": "necklace",
@@ -136945,7 +138711,19 @@
     "requirements": {
       "level": 82
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Greed": [
+        {
+          "text": "+Greed: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Picking up emeralds heals you and nearby players for 8% max health.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Olit Vaniek": {
     "attackSpeed": "slow",
@@ -137604,7 +139382,19 @@
       "strength": 40
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Flurry of Blows": [
+        {
+          "text": "+Flurry of Blows: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Turn Double Slice into a 10-hit pummeling of 16% damage per hit.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Omnitread Boots": {
     "armourMaterial": "pale_leather",
@@ -138933,7 +140723,19 @@
       "level": 86,
       "strength": 35
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Freerunner": [
+        {
+          "text": "+Freerunner: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "When your sprint bar is under 30% full, increase your sprint speed by +150%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Orographine": {
     "armourMaterial": "iron",
@@ -139903,7 +141705,19 @@
       "level": 30
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Overwhelm": [
+        {
+          "text": "+Overwhelm: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Bash will hit +2 times.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Oxalate": {
     "attackSpeed": "slow",
@@ -140603,7 +142417,19 @@
       "agility": 70,
       "level": 93
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Gruesome Knots": [
+        {
+          "text": "+Gruesome Knots: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Bleeding and Twisted Tether deal double damage, but Bleeding duration is reduced.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Paladin's Hammer": {
     "attackSpeed": "veryFast",
@@ -140930,7 +142756,19 @@
       "quest": "???֎",
       "strength": 45
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Madness": [
+        {
+          "text": "+Madness: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Casts a random spell of your class every 3 seconds.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Pangea": {
     "attackSpeed": "verySlow",
@@ -141046,7 +142884,19 @@
       "level": 78,
       "strength": 25
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Freerunner": [
+        {
+          "text": "+Freerunner: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "When your sprint bar is under 30% full, increase your sprint speed by +150%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Panic Zealot": {
     "attackSpeed": "superFast",
@@ -141136,7 +142986,19 @@
     },
     "restrictions": "untradable",
     "type": "weapon",
-    "weaponType": "relik"
+    "weaponType": "relik",
+    "jsonMajorIds": {
+      "Furious Effigy": [
+        {
+          "text": "+Furious Effigy: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Totem effects are twice as fast, but duration is halved.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Panorama": {
     "armourMaterial": "gold",
@@ -142026,7 +143888,19 @@
       "intelligence": 25,
       "level": 73
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Lightweight": [
+        {
+          "text": "+Lightweight: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "You no longer take fall damage.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Paw": {
     "armourMaterial": "iron",
@@ -143425,7 +145299,19 @@
     "requirements": {
       "level": 71
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Alter Ego": [
+        {
+          "text": "+Alter Ego: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Awakened can be activated after saving 40% less mana, but its duration is reduced by 25%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Phantom": {
     "attackSpeed": "veryFast",
@@ -143725,7 +145611,19 @@
       "intelligence": 20,
       "level": 36
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Peaceful Effigy": [
+        {
+          "text": "+Peaceful Effigy: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Your Totem will last twice as long.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Phlebotomy": {
     "armourMaterial": "gold",
@@ -143783,7 +145681,19 @@
       "intelligence": 20,
       "level": 37
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Cannulate": [
+        {
+          "text": "+Cannulate: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Sacrificial Shrine costs -5 Blood Pool to cast and health drain is halved.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Phoenix": {
     "attackSpeed": "slow",
@@ -145397,7 +147307,19 @@
     },
     "restrictions": "untradable",
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Plague": [
+        {
+          "text": "+Plague: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Poisoned mobs spread their poison to nearby mobs.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Plain Glass Necklace": {
     "accessoryType": "necklace",
@@ -146339,7 +148261,19 @@
       "level": 104,
       "strength": 30
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Heartbeat": [
+        {
+          "text": "+Heartbeat: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Arrow Shield is locked to 2 charges but deals doubled damage.\nArrow Wall instead triples Arrow Shield damage and doubles Guardian Angels ammo.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Poinsettia": {
     "attackSpeed": "fast",
@@ -146869,7 +148803,19 @@
       "level": 103,
       "strength": 50
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Spectral Memory": [
+        {
+          "text": "+Spectral Memory: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "\nGhostly Trigger lasts until landing, but no longer increases attack speed. Its cooldown is reduced by 33%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Post-Ultima": {
     "armourMaterial": "iron",
@@ -148367,7 +150313,32 @@
       "intelligence": 50,
       "level": 79
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Divine Honor": [
+        {
+          "text": "+Divine Honor: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Increases the bonus from Radiance by 10%. Bash deals ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#00AA00"
+        },
+        {
+          "text": "-15%",
+          "color": "#00AA00"
+        },
+        {
+          "text": " per hit.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Privateer": {
     "accessoryType": "bracelet",
@@ -148581,7 +150552,19 @@
       "level": 85
     },
     "type": "weapon",
-    "weaponType": "relik"
+    "weaponType": "relik",
+    "jsonMajorIds": {
+      "Peaceful Effigy": [
+        {
+          "text": "+Peaceful Effigy: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Your Totem will last twice as long.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Prog": {
     "attackSpeed": "normal",
@@ -148866,7 +150849,19 @@
       "agility": 70,
       "level": 98
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Windsurf": [
+        {
+          "text": "+Windsurf: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Righting Reflex has 75% reduced fall speed, lasts twice as long, and is affected stronger by movement speed.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Prosencephalon": {
     "armourMaterial": "diamond",
@@ -149630,7 +151625,19 @@
       "intelligence": 50,
       "level": 99
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Expunge": [
+        {
+          "text": "+Expunge: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "When using Heal, cast one instant pulse that heals 15% of your max health.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Psithurism": {
     "armourMaterial": "iron",
@@ -150447,7 +152454,19 @@
       "level": 65
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Gravity Well": [
+        {
+          "text": "+Gravity Well: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Meteor has increased blast radius and pulls enemies instead.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Pure Andesite Bow": {
     "attackSpeed": "verySlow",
@@ -153240,7 +155259,19 @@
       "intelligence": 55,
       "level": 101
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Gentle Glow": [
+        {
+          "text": "+Gentle Glow: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Orphion's Pulse restores up to 25% more max health to allies, but heals at a slower rate. Fluid Healing's effectiveness is increased by 150%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Qaxezine": {
     "attackSpeed": "verySlow",
@@ -154213,7 +156244,19 @@
       "level": 90
     },
     "restrictions": "untradable",
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Transcendence": [
+        {
+          "text": "+Transcendence: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "25% chance for spells to cost no mana when casted.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Quinque": {
     "attackSpeed": "superFast",
@@ -159233,7 +161276,19 @@
     "requirements": {
       "level": 73
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Rusted Ichor": [
+        {
+          "text": "+Rusted Ichor: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Boiling Blood cooldown is reduced by 0.5s and inflicts 40% slowness, but deals no damage.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Remedy": {
     "armourMaterial": "iron",
@@ -159997,7 +162052,19 @@
       "dexterity": 45,
       "level": 97
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Dead Weight": [
+        {
+          "text": "+Dead Weight: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Totem's horizontal velocity is greatly increased at the cost of vertical movement.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Reservoir": {
     "accessoryType": "bracelet",
@@ -160317,7 +162384,32 @@
       "strength": 75
     },
     "type": "weapon",
-    "weaponType": "relik"
+    "weaponType": "relik",
+    "jsonMajorIds": {
+      "Lifestream": [
+        {
+          "text": "+Lifestream: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Blood Sorrow deals ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "450%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " and grants 4 times the overhealth, but shortens its duration by 75%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Resplendence": {
     "accessoryType": "necklace",
@@ -161363,7 +163455,19 @@
       "level": 80
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Sorcery": [
+        {
+          "text": "+Sorcery: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "25% chance for spells and attacks to cast a second time at no additional cost.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Rheingold": {
     "armourMaterial": "iron",
@@ -161563,7 +163667,19 @@
       "strength": 80
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Rally": [
+        {
+          "text": "+Rally: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Cleansing Breeze heals you for 15% and allies for 20%, but Charge becomes harmless.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Ribcage": {
     "armourMaterial": "pale_leather",
@@ -163222,7 +165338,32 @@
       "level": 64
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Juggle": [
+        {
+          "text": "+Juggle: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Mutilate adds an additional 12 hits. All hits are reduced by ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "-10%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ".",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Rollick": {
     "armourMaterial": "iron",
@@ -164638,7 +166779,19 @@
       "strength": 40
     },
     "restrictions": "untradable",
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Sorcery": [
+        {
+          "text": "+Sorcery: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "25% chance for spells and attacks to cast a second time at no additional cost.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Runic Coin": {
     "accessoryType": "necklace",
@@ -167459,7 +169612,19 @@
     "requirements": {
       "level": 30
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Festive Spirit": [
+        {
+          "text": "+Festive Spirit: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Plays wintery tunes.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Santa Hat": {
     "armourMaterial": "pale_gold",
@@ -168748,7 +170913,32 @@
     "requirements": {
       "level": 52
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Explosive Impact": [
+        {
+          "text": "+Explosive Impact: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Exploding gives an additional chance to deal ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "300%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " Main Attack damage in a radius of 5 blocks upon killing an enemy.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Scarlet Wynnter Sweater": {
     "armourMaterial": "pale_leather",
@@ -168839,7 +171029,19 @@
       "intelligence": 55,
       "level": 103
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Strings of Fate": [
+        {
+          "text": "+Strings of Fate: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Your puppets have a lifetime of 3 seconds and deal double damage with attacks and explosions.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Schist": {
     "accessoryType": "necklace",
@@ -170390,7 +172592,32 @@
       "strength": 21
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Lustrate": [
+        {
+          "text": "+Lustrate: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Heal restores health at a slower rate, but Searing Light deals ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "+150%",
+          "color": "#55FFFF"
+        },
+        {
+          "text": ".",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Sealing Coin": {
     "accessoryType": "necklace",
@@ -171942,7 +174169,19 @@
       "agility": 45,
       "level": 44
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Lightweight": [
+        {
+          "text": "+Lightweight: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "You no longer take fall damage.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Sewer Slugger": {
     "attackSpeed": "superSlow",
@@ -173457,7 +175696,19 @@
       "strength": 55
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Entropy": [
+        {
+          "text": "+Entropy: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Meteor's speed is increased by 50%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Shatterglass": {
     "accessoryType": "necklace",
@@ -175086,7 +177337,71 @@
       "strength": 70
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Troll Barge": [
+        {
+          "text": "+Troll Barge: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Quake allows you to charge forth, dealing ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "80%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " and \n",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#00AA00"
+        },
+        {
+          "text": "20%",
+          "color": "#00AA00"
+        },
+        {
+          "text": " to any mobs hit, and ending with a powerful stomp for ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "400%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " and \n",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#00AA00"
+        },
+        {
+          "text": "150%",
+          "color": "#00AA00"
+        },
+        {
+          "text": ". This will leave you vulnerable.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Shrok": {
     "armourMaterial": "chainmail",
@@ -175862,7 +178177,19 @@
       "defence": 45,
       "level": 85
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Taunt": [
+        {
+          "text": "+Taunt: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Provoke's Cooldown is lowered by -3s.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Silencer": {
     "armourMaterial": "iron",
@@ -178115,7 +180442,19 @@
       "defence": 50,
       "level": 60
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Meteor Crash": [
+        {
+          "text": "+Meteor Crash: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Burning Sigil gains +6 radius and deals double the damage, but lasts half as long.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Singularity": {
     "attackSpeed": "superSlow",
@@ -178210,7 +180549,32 @@
       "strength": 42
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Orbital Chain": [
+        {
+          "text": "+Orbital Chain: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Chain Lightning hits slower, rebounds, adds 6 chains, and pulls mobs closer for a ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "1500%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " explosion spell. ",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Sinister": {
     "accessoryType": "bracelet",
@@ -182533,7 +184897,19 @@
     "requirements": {
       "level": 33
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Snowy Steps": [
+        {
+          "text": "+Snowy Steps: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Leaves a trail of snow behind you.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Soaked Tunic": {
     "armourMaterial": "pale_leather",
@@ -183662,7 +186038,49 @@
       "level": 96
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Pioneer's Echo": [
+        {
+          "text": "+Pioneer's Echo:",
+          "color": "#AAAAAA"
+        },
+        {
+          "text": " Phantom Ray deals two bursts of ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " 150%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ",",
+          "color": "#55FFFF"
+        },
+        {
+          "text": " ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#55FFFF"
+        },
+        {
+          "text": " 60%",
+          "color": "#55FFFF"
+        },
+        {
+          "text": " over 1 second. Decimator's increase and cap are raised to 140%.",
+          "color": "#55FFFF"
+        }
+      ]
+    }
   },
   "Sonicboom": {
     "attackSpeed": "superSlow",
@@ -183778,7 +186196,19 @@
       "level": 53,
       "strength": 20
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Power Fist": [
+        {
+          "text": "+Power Fist: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Striking enemies with an empty hand greatly knocks them back.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Sorcerer's Stick": {
     "attackSpeed": "normal",
@@ -187215,7 +189645,19 @@
       "dexterity": 55,
       "level": 80
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Pounce": [
+        {
+          "text": "+Pounce: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Escape becomes a forward lunge.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Springtrap": {
     "armourMaterial": "chainmail",
@@ -189904,7 +192346,19 @@
       "intelligence": 30,
       "level": 86
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Lightweight": [
+        {
+          "text": "+Lightweight: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "You no longer take fall damage.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Steamstone": {
     "armourMaterial": "diamond",
@@ -190734,7 +193188,19 @@
     "requirements": {
       "level": 69
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Plague": [
+        {
+          "text": "+Plague: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Poisoned mobs spread their poison to nearby mobs.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Stillwater Blue": {
     "armourMaterial": "diamond",
@@ -192815,7 +195281,19 @@
       "defence": 30,
       "level": 54
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Taunt": [
+        {
+          "text": "+Taunt: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Provoke's Cooldown is lowered by -3s.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Stronghold": {
     "armourMaterial": "chainmail",
@@ -195440,7 +197918,19 @@
       "level": 97
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Inversion": [
+        {
+          "text": "+Inversion: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Teleport will grant you 3 seconds of levitation.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Svalinn": {
     "armourMaterial": "iron",
@@ -196380,7 +198870,19 @@
       "level": 100
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Heat Shimmer": [
+        {
+          "text": "+Heat Shimmer: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Foul Play will no longer slay a Mirror Clone and will still provide its effects, but Mirror Clone count is reduced to 1. Tricks application is increased by 50%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Synergy": {
     "armourMaterial": "chainmail",
@@ -196637,7 +199139,19 @@
       "dexterity": 55,
       "level": 88
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Escape Route": [
+        {
+          "text": "+Escape Route: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Frenzy and Time Dilation charge twice as fast but also decay twice as fast.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Tachypsychia": {
     "attackSpeed": "veryFast",
@@ -196708,7 +199222,19 @@
       "strength": 50
     },
     "type": "weapon",
-    "weaponType": "relik"
+    "weaponType": "relik",
+    "jsonMajorIds": {
+      "Furious Effigy": [
+        {
+          "text": "+Furious Effigy: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Totem effects are twice as fast, but duration is halved.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Taciturn": {
     "armourMaterial": "diamond",
@@ -197108,7 +199634,19 @@
       "agility": 75,
       "level": 85
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Lunge": [
+        {
+          "text": "+Lunge: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Hop and Leap's horizontal velocity is greatly increased.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Takeover": {
     "armourMaterial": "iron",
@@ -199437,7 +201975,58 @@
       "level": 60
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Tackle": [
+        {
+          "text": "+Tackle: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Flying Kick deals much more knockback and increases Collide damage by an additional ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "150%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": ", ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFFF55"
+        },
+        {
+          "text": "60%",
+          "color": "#FFFF55"
+        },
+        {
+          "text": ", and ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "10%",
+          "color": "#FF5555"
+        },
+        {
+          "text": ".",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Terra's Mold": {
     "armourMaterial": "diamond",
@@ -201813,7 +204402,19 @@
     },
     "restrictions": "untradable",
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Greed": [
+        {
+          "text": "+Greed: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Picking up emeralds heals you and nearby players for 8% max health.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "The Extinguished": {
     "accessoryType": "necklace",
@@ -202381,7 +204982,19 @@
       "strength": 67
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Wormhole": [
+        {
+          "text": "+Wormhole: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Last Laugh instead casts Meteor. Malicious Mockery causes Meteor to apply 13 Trick stacks.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "The Jingling Jester": {
     "armourMaterial": "iron",
@@ -202454,7 +205067,19 @@
     "requirements": {
       "level": 69
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Greed": [
+        {
+          "text": "+Greed: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Picking up emeralds heals you and nearby players for 8% max health.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "The Judge": {
     "armourMaterial": "chainmail",
@@ -204162,7 +206787,19 @@
       "dexterity": 10,
       "level": 41
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Escape Route": [
+        {
+          "text": "+Escape Route: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Frenzy and Time Dilation charge twice as fast but also decay twice as fast.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "The Silent": {
     "armourMaterial": "iron",
@@ -205665,7 +208302,19 @@
       "level": 102
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Perfect Recall": [
+        {
+          "text": "+Perfect Recall: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Memory Recollection speeds up Chaos Explosion by 0.1s per spell but increases Chaos Explosion's mana bank requirement by 30.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Thoracic": {
     "armourMaterial": "pale_leather",
@@ -207871,7 +210520,19 @@
       "intelligence": 120,
       "level": 95
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Sorcery": [
+        {
+          "text": "+Sorcery: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "25% chance for spells and attacks to cast a second time at no additional cost.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Time Ring": {
     "accessoryType": "ring",
@@ -208626,7 +211287,36 @@
       "level": 100,
       "strength": 65
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Dauntless Inferno": [
+        {
+          "text": "+Dauntless Inferno:",
+          "color": "#AAAAAA"
+        },
+        {
+          "text": " Courage casts a series of 5 infernos that expand after the last, dealing",
+          "color": "#55FFFF"
+        },
+        {
+          "text": " ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "125%",
+          "color": "#FF5555"
+        },
+        {
+          "text": " each, and grants 20% resistance instead of a damage boost.",
+          "color": "#55FFFF"
+        }
+      ]
+    }
   },
   "Tizatuko": {
     "armourMaterial": "gold",
@@ -209824,7 +212514,19 @@
       "level": 104
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Fixate": [
+        {
+          "text": "+Fixate: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Devitalize doubles your Winded cap, but lowers Winded damage effects by 30%. Timelock absorbs up to 120 Winded.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Tranquility": {
     "accessoryType": "ring",
@@ -210420,7 +213122,19 @@
       "strength": 75
     },
     "type": "weapon",
-    "weaponType": "relik"
+    "weaponType": "relik",
+    "jsonMajorIds": {
+      "Dead Weight": [
+        {
+          "text": "+Dead Weight: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Totem's horizontal velocity is greatly increased at the cost of vertical movement.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Tremorstep": {
     "armourMaterial": "iron",
@@ -211075,7 +213789,19 @@
       "level": 89
     },
     "type": "weapon",
-    "weaponType": "relik"
+    "weaponType": "relik",
+    "jsonMajorIds": {
+      "Sublimation": [
+        {
+          "text": "+Sublimation: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Totemic Shatter heals 75% of Regeneration's usual amount at the cost of 2 blocks of radius.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Triumph": {
     "armourMaterial": "iron",
@@ -214940,7 +217666,19 @@
       "level": 77,
       "strength": 35
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Plague": [
+        {
+          "text": "+Plague: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Poisoned mobs spread their poison to nearby mobs.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Urheus": {
     "armourMaterial": "gold",
@@ -217526,7 +220264,32 @@
       "level": 98
     },
     "type": "weapon",
-    "weaponType": "spear"
+    "weaponType": "spear",
+    "jsonMajorIds": {
+      "Divine Honor": [
+        {
+          "text": "+Divine Honor: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Increases the bonus from Radiance by 10%. Bash deals ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#00AA00"
+        },
+        {
+          "text": "-15%",
+          "color": "#00AA00"
+        },
+        {
+          "text": " per hit.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Verstand": {
     "armourMaterial": "gold",
@@ -218079,7 +220842,19 @@
       "level": 30,
       "quest": "The Mercenary"
     },
-    "type": "accessory"
+    "type": "accessory",
+    "jsonMajorIds": {
+      "Magnet": [
+        {
+          "text": "+Magnet: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Pulls items dropped by mobs towards you.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Vine": {
     "accessoryType": "ring",
@@ -218291,7 +221066,19 @@
     "requirements": {
       "level": 77
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Entropy": [
+        {
+          "text": "+Entropy: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Meteor's speed is increased by 50%.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Viper": {
     "attackSpeed": "veryFast",
@@ -218736,7 +221523,45 @@
       "strength": 15
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Fallout": [
+        {
+          "text": "+Fallout: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Bomb Arrow gains +7.5 range, ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FF5555"
+        },
+        {
+          "text": "+50%",
+          "color": "#FF5555"
+        },
+        {
+          "text": ", severely increased recoil, and ",
+          "color": "#00AAAA"
+        },
+        {
+          "text": "",
+          "font": "common",
+          "color": "#FFAA00"
+        },
+        {
+          "text": "25%",
+          "color": "#FFAA00"
+        },
+        {
+          "text": " self-damage.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Visceral Chest": {
     "armourMaterial": "pale_iron",
@@ -220668,7 +223493,19 @@
       "level": 86,
       "strength": 60
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Altruism": [
+        {
+          "text": "+Altruism: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Nearby players gain 100% of the health you gain from Health Regen and Life Steal.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Waist Apron": {
     "armourMaterial": "pale_leather",
@@ -221053,7 +223890,19 @@
       "strength": 60
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Seeking Module": [
+        {
+          "text": "+Seeking Module: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Homing Shots track towards nearby enemies much more aggressively.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Wanderlust": {
     "armourMaterial": "diamond",
@@ -221370,7 +224219,19 @@
       "level": 74
     },
     "type": "weapon",
-    "weaponType": "wand"
+    "weaponType": "wand",
+    "jsonMajorIds": {
+      "Lockdown": [
+        {
+          "text": "+Lockdown: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Meteor will snap onto a target in range, regardless of aim.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Wardrummer": {
     "attackSpeed": "slow",
@@ -221982,7 +224843,19 @@
       "level": 105
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Vedette": [
+        {
+          "text": "+Vedette: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Focus gets +10% damage per stack, but caps at 2. Crepuscular Ray can be cast at 2 Focus with decreased Focus drain, launching you into the air and immobilizing you.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Water Lily": {
     "attackSpeed": "normal",
@@ -223363,7 +226236,19 @@
       "level": 96
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Roving Assassin": [
+        {
+          "text": "+Roving Assassin: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Vanish will no longer block mana and health regeneration.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Weatherwalkers": {
     "armourMaterial": "diamond",
@@ -223784,7 +226669,19 @@
       "level": 80
     },
     "type": "weapon",
-    "weaponType": "bow"
+    "weaponType": "bow",
+    "jsonMajorIds": {
+      "Evershot": [
+        {
+          "text": "+Evershot: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Arrow Hurricane becomes a consistent, straight stream of arrows with a slower fire rate, dealing greater knockback and triple damage per arrow.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Werepelt": {
     "armourMaterial": "iron",
@@ -224026,7 +226923,19 @@
       "intelligence": 75,
       "level": 89
     },
-    "type": "armour"
+    "type": "armour",
+    "jsonMajorIds": {
+      "Hurricane's Eye": [
+        {
+          "text": "+Hurricane's Eye: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Violent Vortex applies 2 marks to every enemy it hits.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Whirlpool": {
     "attackSpeed": "normal",
@@ -229133,7 +232042,19 @@
       "level": 101
     },
     "type": "weapon",
-    "weaponType": "dagger"
+    "weaponType": "dagger",
+    "jsonMajorIds": {
+      "Soul Eater": [
+        {
+          "text": "+Soul Eater: ",
+          "color": "#55FFFF"
+        },
+        {
+          "text": "Devour and Harvester grant double mana. Decreases maximum marks by 1.",
+          "color": "#00AAAA"
+        }
+      ]
+    }
   },
   "Yuletide": {
     "attackSpeed": "fast",

@@ -2,7 +2,11 @@ import sys
 import json
 import re
 
-TAGS_TO_REMOVE = ["<black>", "<darkBlue>", "<darkGreen>", "<darkAqua>", "<darkRed>", "<darkPurple>", "<gold>", "<darkGray>", "<blue>", "<green>", "<aqua>", "<red>", "<lightPurple>", "<yellow>", "<white>"]
+TAGS_TO_REMOVE = [
+    "<black>", "<darkBlue>", "<darkGreen>", "<darkAqua>", "<darkRed>",
+    "<darkPurple>", "<gold>", "<darkGray>", "<blue>", "<green>",
+    "<aqua>", "<red>", "<lightPurple>", "<yellow>", "<white>"
+]
 
 CLASS_PATTERN = re.compile(r'class=["\'](.*?)["\']')
 STYLE_PATTERN = re.compile(r'style=["\'](.*?)["\']')
@@ -27,23 +31,25 @@ FONT_NAMESPACES = {
     "font-high_gavelian": "language/high_gavelian",
 }
 
+
 def clean_html(text):
-    # Sometimes the API includes color tags like <aqua> or <white> so we can just remove any
     cleaned_text = TAG_PATTERN.sub("", text)
 
-    # It can also include the internal dictionary keys for colors so convert those to hex
     for key, value in COLOR_MAP.items():
         cleaned_text = cleaned_text.replace(key, value)
 
+    cleaned_text = cleaned_text.replace("<br>", "\n").replace("<br/>", "\n").replace("</br>", "\n")
+
     return cleaned_text
 
+
 def parse_html_to_json(html_string, default_color):
-    if html_string.strip() == "</br>":
+    if html_string.strip() in ("</br>", "", "<br>", "<br/>"):
         return []
 
     parts = []
-    styles = [{}]
-    current_style = {}
+    styles = [{"color": default_color}]
+    current_style = styles[-1]
 
     plain_text = ""
 
@@ -53,20 +59,20 @@ def parse_html_to_json(html_string, default_color):
         token = match.group()
 
         if token.startswith("<span"):
-            if len(plain_text) != 0:
+            if plain_text:
                 parts.append(create_part(plain_text, current_style))
                 plain_text = ""
 
             parent_style = styles[-1]
-            new_style = {
-                "color": parent_style.get("color", default_color)
-            }
+            new_style = dict(parent_style)
 
             class_matcher = CLASS_PATTERN.search(token)
             if class_matcher:
-                font_name = class_matcher.group(1).strip()
-                namespace = FONT_NAMESPACES.get(font_name, "default")
-                new_style["font"] = namespace
+                font_classes = class_matcher.group(1).split()
+                for font_name in font_classes:
+                    if font_name in FONT_NAMESPACES:
+                        new_style["font"] = FONT_NAMESPACES[font_name]
+                        break
 
             style_matcher = STYLE_PATTERN.search(token)
             if style_matcher:
@@ -74,11 +80,13 @@ def parse_html_to_json(html_string, default_color):
 
                 for style_entry in style.split(";"):
                     style_entry = style_entry.strip()
-
-                    if len(style_entry) == 0:
+                    if not style_entry:
                         continue
 
-                    style_pair = style_entry.split(":")
+                    style_pair = style_entry.split(":", 1)
+                    if len(style_pair) != 2:
+                        continue
+
                     style_key = style_pair[0].strip()
                     style_value = style_pair[1].strip()
 
@@ -87,52 +95,65 @@ def parse_html_to_json(html_string, default_color):
                             new_style["underline"] = True
                         elif style_value == "line-through":
                             new_style["strikethrough"] = True
+
                     elif style_key == "font-style":
                         if style_value == "italic":
                             new_style["italic"] = True
+
                     elif style_key == "font-weight":
                         if style_value == "bolder":
                             new_style["bold"] = True
+
                     elif style_key == "color":
                         new_style["color"] = style_value
+
                     elif style_key == "margin-left":
                         if style_value == "7.5px":
-                            parts[-1]["margin-left"] = "thin"
+                            new_style["margin-left"] = "thin"
                         elif style_value == "20px":
-                            parts[-1]["margin-left"] = "large"
+                            new_style["margin-left"] = "large"
 
             styles.append(new_style)
             current_style = new_style
+
         elif token.startswith("</span>"):
-            if len(plain_text) != 0:
+            if plain_text:
                 parts.append(create_part(plain_text, current_style))
                 plain_text = ""
 
-            if len(styles) != 0:
+            if len(styles) > 1:
                 styles.pop()
 
-            parent_style = {} if not styles else styles[-1]
+            current_style = styles[-1]
 
-            current_style = parent_style
         else:
             plain_text += token
 
-    if len(plain_text) != 0:
+    if plain_text:
         parts.append(create_part(plain_text, current_style))
 
     return parts
 
+
 def create_part(text, style):
     part = {"text": text}
 
-    for key in ["bold", "italic", "underline", "strikethrough", "font", "color", "margin-left"]:
+    for key in [
+        "bold",
+        "italic",
+        "underline",
+        "strikethrough",
+        "font",
+        "color",
+        "margin-left"
+    ]:
         if key in style:
             if key == "font" and style[key] == "default":
                 continue
-
             part[key] = style[key]
 
     return part
+
 
 def process_file(input_path, output_path, gear):
     with open(input_path, "r", encoding="utf-8") as infile:
@@ -148,15 +169,23 @@ def process_file(input_path, output_path, gear):
                     json_major_ids[key] = parse_html_to_json(cleaned, "#55FFFF")
 
                 item_data["jsonMajorIds"] = json_major_ids
+
     else:
         for aspect, aspect_data in data.items():
             if "tiers" in aspect_data:
                 for tier, tier_data in aspect_data["tiers"].items():
                     if "description" in tier_data:
-                        clean_description = [clean_html(desc) for desc in tier_data["description"]]
-                        tier_data["description"] = [parse_html_to_json(desc, "#AAAAAA") for desc in clean_description]
+                        clean_description = [
+                            clean_html(desc) for desc in tier_data["description"]
+                        ]
+
+                        tier_data["description"] = [
+                            parse_html_to_json(desc, "#AAAAAA")
+                            for desc in clean_description
+                        ]
 
     with open(output_path, "w", encoding="utf-8") as outfile:
         json.dump(data, outfile, indent=2)
+
 
 process_file(sys.argv[1], sys.argv[2], sys.argv[3] == "true")
