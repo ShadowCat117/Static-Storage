@@ -66,6 +66,10 @@ def parse_html_to_json(html_string, default_color):
             parent_style = styles[-1]
             new_style = dict(parent_style)
 
+            # Do not inherit non-cascading styles
+            new_style.pop("underline", None)
+            new_style.pop("strikethrough", None)
+
             class_matcher = CLASS_PATTERN.search(token)
             if class_matcher:
                 font_classes = class_matcher.group(1).split()
@@ -150,7 +154,12 @@ def create_part(text, style):
         if key in style:
             if key == "font" and style[key] == "default":
                 continue
+
             part[key] = style[key]
+
+            # margin-left should only apply once
+            if key == "margin-left":
+                style.pop("margin-left", None)
 
     return part
 
