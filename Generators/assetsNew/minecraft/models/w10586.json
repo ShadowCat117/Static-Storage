@@ -1,0 +1,1 @@
+{"display":{"gui":{"rotation":[0,180,0]}},"elements":[{"faces":{"north":{"texture":"#1","tintindex":0,"uv":[9,8.75,9.75,12]},"south":{"texture":"#1","tintindex":0,"uv":[9.75,8.75,9,12]}},"from":[8,8,8],"shade":false,"to":[8.186464,8.8125,8]}],"textures":{"1":"item/w6694878247388010019","particle":"item/empty"}}

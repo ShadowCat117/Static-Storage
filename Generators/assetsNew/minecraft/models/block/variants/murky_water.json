@@ -1,0 +1,1 @@
+{"ambientocclusion":false,"elements":[{"faces":{"up":{"texture":"#water","uv":[0,0,16,16]}},"from":[0,0,0],"to":[16,14,16]}],"textures":{"particle":"block/variants/murky_water","water":"block/variants/murky_water"}}

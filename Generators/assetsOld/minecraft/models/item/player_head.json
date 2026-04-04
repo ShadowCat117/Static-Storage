@@ -1,0 +1,1 @@
+{"overrides":[{"model":"item/wynn/gui/raid/head","predicate":{"custom_model_data":1}},{"model":"item/wynn/gui/store/head","predicate":{"custom_model_data":2}},{"model":"item/wynn/emotes/steve_alex","predicate":{"custom_model_data":100}}],"parent":"item/wynn/template/player_head"}

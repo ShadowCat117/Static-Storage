@@ -1,0 +1,1 @@
+{"elements":[{"faces":{"down":{"texture":"#end","uv":[4,4,12,12]},"east":{"texture":"#wall","uv":[4,0,12,16]},"north":{"texture":"#wall","uv":[4,0,12,16]},"south":{"texture":"#wall","uv":[4,0,12,16]},"up":{"texture":"#end","uv":[4,4,12,12]},"west":{"texture":"#wall","uv":[4,0,12,16]}},"from":[4,0,4],"to":[12,16,12]}],"textures":{"particle":"#wall"}}
