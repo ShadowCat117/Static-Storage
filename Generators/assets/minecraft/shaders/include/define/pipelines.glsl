@@ -1,0 +1,19 @@
+#if defined(RENDERTYPE_ENTITY_TRANSLUCENT_CULL) || defined(RENDERTYPE_ITEM_ENTITY_TRANSLUCENT_CULL) || defined(ITEM)
+#define IS_ITEM
+#endif
+
+#if defined(RENDERTYPE_ARMOR_CUTOUT_NO_CULL) || defined(RENDERTYPE_ENTITY_TRANSLUCENT) || defined(ENTITY)
+#define IS_ENTITY
+#endif
+
+#if defined(RENDERTYPE_TEXT) || defined(RENDERTYPE_TEXT_SEE_THROUGH) 
+#define IS_TEXT
+#endif
+
+#if defined(RENDERTYPE_TEXT) && !defined(RENDERTYPE_TEXT_SEE_THROUGH)
+#define IS_SCREEN_TEXT
+#endif
+
+#if defined(RENDERTYPE_TEXT_SEE_THROUGH) && !defined(RENDERTYPE_TEXT)
+#define IS_WORLD_TEXT
+#endif

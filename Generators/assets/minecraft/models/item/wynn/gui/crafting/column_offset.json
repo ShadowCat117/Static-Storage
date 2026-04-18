@@ -1,0 +1,1 @@
+{"display":{"fixed":{"rotation":[0,180,0],"scale":[2,2,2],"translation":[0,0,1]},"gui":{"rotation":[0,0,0],"scale":[6,6,1],"translation":[48,18,-25]}},"parent":"item/wynn/template/button/48","textures":{"layer0":"wynn/gui/crafting/column_offset"}}

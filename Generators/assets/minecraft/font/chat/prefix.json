@@ -1,0 +1,1 @@
+{"providers":[{"id":"space","type":"reference"},{"advances":{" ":4,"‌":0},"type":"space"},{"ascent":8,"chars":["\u0000\u0000\u0000\u0000\u0000\u0000","","","\u0000\u0000\u0000\u0000\u0000"],"file":"font/chat/prefix.png","height":9,"type":"bitmap"},{"ascent":9,"chars":[""],"file":"font/chat/prefix_alt.png","height":10,"type":"bitmap"}]}

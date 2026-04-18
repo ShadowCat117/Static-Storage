@@ -1,0 +1,1 @@
+{"passes":[{"inputs":[{"sampler_name":"In","target":"entity_outline"}],"output":"swap","program":"post/entity_outline"},{"inputs":[{"sampler_name":"In","target":"swap"}],"output":"entity_outline","program":"post/blit"}],"targets":{"swap":{}}}

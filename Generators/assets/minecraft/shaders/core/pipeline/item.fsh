@@ -1,0 +1,4 @@
+#version 150
+#define RENDERTYPE_ENTITY_TRANSLUCENT_CULL
+#define RENDERTYPE_ITEM_ENTITY_TRANSLUCENT_CULL
+#moj_import <render/item.fsh>
