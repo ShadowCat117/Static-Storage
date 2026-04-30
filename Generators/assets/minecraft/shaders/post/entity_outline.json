@@ -1,0 +1,1 @@
+{"fragment":"post/entity_sobel","samplers":[{"name":"InSampler"}],"uniforms":[{"count":16,"name":"ProjMat","type":"matrix4x4","values":[1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0]},{"count":2,"name":"InSize","type":"float","values":[1.0,1.0]},{"count":2,"name":"OutSize","type":"float","values":[1.0,1.0]}],"vertex":"post/sobel"}
