@@ -1,0 +1,24 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": 56,
+      "chars": [
+        "\uE000"
+      ],
+      "file": "font/hud/dialogue/style/reserved/nameplate.png",
+      "height": 64,
+      "type": "bitmap"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": -4096,
+      "chars": [
+        "\uF000"
+      ],
+      "file": "font/banner/filler.png",
+      "height": 1,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 4,
+      "chars": [
+        " !\"#$%&'()*+,-./",
+        "0123456789:;<=>?",
+        "@ABCDEFGHIJKLMNO",
+        "PQRSTUVWXYZ[\\]^_",
+        "`abcdefghijklmno",
+        "pqrstuvwxyz{|}~\u0000",
+        "\uE000\uE001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      ],
+      "file": "font/banner/keybind.png",
+      "height": 12,
+      "type": "bitmap"
+    }
+  ]
+}

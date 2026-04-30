@@ -1,1 +1,10 @@
-{"providers":[{"advances":{"֎":0},"type":"space"}]}
+{
+  "providers": [
+    {
+      "advances": {
+        "\u058E": 0
+      },
+      "type": "space"
+    }
+  ]
+}

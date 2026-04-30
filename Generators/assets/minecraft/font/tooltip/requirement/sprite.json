@@ -1,0 +1,33 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": 19,
+      "chars": [
+        "\uE000\uE001\uE002\uE003\uE004",
+        "\uE010\uE011\uE012\uE013\uE014"
+      ],
+      "file": "font/tooltip/requirement/sprite.png",
+      "height": 24,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "\uE005\uE006\uE007"
+      ],
+      "file": "font/tooltip/requirement/linear.png",
+      "type": "bitmap"
+    }
+  ]
+}

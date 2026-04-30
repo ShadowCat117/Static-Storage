@@ -1,0 +1,1 @@
+{"display":{"head":{"scale":[1.6,1.6,1.6],"translation":[-16,6.25,-3]}},"elements":[{"faces":{"down":{"texture":"#0","uv":[13.5,0,8.5,3.5]},"up":{"texture":"#0","uv":[8.5,3.5,3.5,0]}},"from":[-2,0,1],"rotation":{"angle":0,"axis":"z","origin":[6,7,4]},"to":[18,0.01,15]}],"textures":{"0":"#all","particle":"#all"}}

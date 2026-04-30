@@ -1,0 +1,23 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "\uE000\uE001\uE002\uE003\uE004\uE005"
+      ],
+      "file": "font/tooltip/socket.png",
+      "type": "bitmap"
+    }
+  ]
+}

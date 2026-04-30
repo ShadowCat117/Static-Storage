@@ -1,0 +1,105 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": 60,
+      "chars": [
+        "\uE000\uE001"
+      ],
+      "file": "font/hud/dialogue/style/default/navigation.png",
+      "height": 128,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 73,
+      "chars": [
+        "\uE010\uE011"
+      ],
+      "file": "font/hud/dialogue/style/default/choice.png",
+      "height": 128,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 86,
+      "chars": [
+        "\uE020\uE021"
+      ],
+      "file": "font/hud/dialogue/style/default/choice.png",
+      "height": 128,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 99,
+      "chars": [
+        "\uE030\uE031"
+      ],
+      "file": "font/hud/dialogue/style/default/choice.png",
+      "height": 128,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 112,
+      "chars": [
+        "\uE040\uE041"
+      ],
+      "file": "font/hud/dialogue/style/default/choice.png",
+      "height": 128,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 125,
+      "chars": [
+        "\uE050\uE051"
+      ],
+      "file": "font/hud/dialogue/style/default/navigation.png",
+      "height": 128,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 73,
+      "chars": [
+        "\uE060\uE061"
+      ],
+      "file": "font/hud/dialogue/style/default/cursor.png",
+      "height": 128,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 86,
+      "chars": [
+        "\uE070\uE071"
+      ],
+      "file": "font/hud/dialogue/style/default/cursor.png",
+      "height": 128,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 99,
+      "chars": [
+        "\uE080\uE081"
+      ],
+      "file": "font/hud/dialogue/style/default/cursor.png",
+      "height": 128,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 112,
+      "chars": [
+        "\uE090\uE091"
+      ],
+      "file": "font/hud/dialogue/style/default/cursor.png",
+      "height": 128,
+      "type": "bitmap"
+    }
+  ]
+}

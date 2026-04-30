@@ -1,1 +1,35 @@
-{"providers":[{"id":"space","type":"reference"},{"ascent":11,"chars":[""],"file":"font/marker/prism.png","height":25,"type":"bitmap"},{"ascent":19,"chars":[""],"file":"font/marker/focus.png","height":41,"type":"bitmap"},{"ascent":11,"chars":[""],"file":"font/marker/lootrun.png","height":25,"type":"bitmap"}]}
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "ascent": 11,
+      "chars": [
+        "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007\uE008\uE009\uE00A\uE00B"
+      ],
+      "file": "font/marker/prism.png",
+      "height": 25,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 19,
+      "chars": [
+        "\uE010\uE011\uE012\uE013\uE014"
+      ],
+      "file": "font/marker/focus.png",
+      "height": 41,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 11,
+      "chars": [
+        "\uE020\uE021\uE022\uE023\uE024"
+      ],
+      "file": "font/marker/lootrun.png",
+      "height": 25,
+      "type": "bitmap"
+    }
+  ]
+}

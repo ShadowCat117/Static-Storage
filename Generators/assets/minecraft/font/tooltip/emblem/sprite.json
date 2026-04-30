@@ -1,0 +1,41 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": 14,
+      "chars": [
+        "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007\uE008",
+        "\uE010\uE011\uE012\uE013\uE014\uE015\uE016\uE017\uE018",
+        "\uE020\uE021\uE022\uE023\uE024\uE025\uE026\uE027\uE028",
+        "\uE030\uE031\uE032\uE033\uE034\uE035\uE036\uE037\uE038",
+        "\uE040\uE041\uE042\uE043\uE044\uE045\uE046\uE047\uE048"
+      ],
+      "file": "font/tooltip/emblem/sprite.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "\uF000\uF001\uF002\uF003\uF004\uF005\uF006\uF007\uF008",
+        "\uF010\uF011\uF012\uF013\uF014\uF015\uF016\uF017\uF018",
+        "\uF020\uF021\uF022\uF023\uF024\uF025\uF026\uF027\uF028",
+        "\uF030\uF031\uF032\uF033\uF034\uF035\uF036\uF037\uF038",
+        "\uF040\uF041\uF042\uF043\uF044\uF045\uF046\uF047\uF048"
+      ],
+      "file": "font/tooltip/emblem/sprite.png",
+      "height": 32,
+      "type": "bitmap"
+    }
+  ]
+}

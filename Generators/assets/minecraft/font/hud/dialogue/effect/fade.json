@@ -1,0 +1,51 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": 160,
+      "chars": [
+        "\uE000"
+      ],
+      "file": "font/hud/dialogue/effect/fade.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 170,
+      "chars": [
+        "\uE001"
+      ],
+      "file": "font/hud/dialogue/effect/fade.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 180,
+      "chars": [
+        "\uE002"
+      ],
+      "file": "font/hud/dialogue/effect/fade.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 191,
+      "chars": [
+        "\uE003"
+      ],
+      "file": "font/hud/dialogue/effect/fade.png",
+      "height": 256,
+      "type": "bitmap"
+    }
+  ]
+}

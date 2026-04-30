@@ -1,0 +1,75 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": -64,
+      "chars": [
+        "\uE000\uE001",
+        "\u0000\u0000"
+      ],
+      "file": "font/hud/selector/default/top_left/wynncraft.png",
+      "height": 96,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -72,
+      "chars": [
+        "\uE002\uE003",
+        "\u0000\u0000"
+      ],
+      "file": "font/hud/selector/default/top_left/blizzard.png",
+      "height": 96,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -72,
+      "chars": [
+        "\uE004\uE005",
+        "\u0000\u0000"
+      ],
+      "file": "font/hud/selector/default/top_left/heroes.png",
+      "height": 96,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -72,
+      "chars": [
+        "\uE006\uE007",
+        "\u0000\u0000"
+      ],
+      "file": "font/hud/selector/default/top_left/bonfire.png",
+      "height": 96,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -72,
+      "chars": [
+        "\uE008\uE009",
+        "\u0000\u0000"
+      ],
+      "file": "font/hud/selector/default/top_left/spirits.png",
+      "height": 96,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -72,
+      "chars": [
+        "\uE00A\uE00B",
+        "\u0000\u0000"
+      ],
+      "file": "font/hud/selector/default/top_left/fruma.png",
+      "height": 96,
+      "type": "bitmap"
+    }
+  ]
+}

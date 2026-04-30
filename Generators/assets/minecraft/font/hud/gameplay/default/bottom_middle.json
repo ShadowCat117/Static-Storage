@@ -1,0 +1,340 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        " !\"#$%&'()*+,-./",
+        "0123456789:;<=>?",
+        "@ABCDEFGHIJKLMNO",
+        "PQRSTUVWXYZ[\\]^_",
+        "`abcdefghijklmno",
+        "pqrstuvwxyz{|}~\u0000",
+        "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00A3\u0000\u0000\u0192",
+        "\u0000\u0000\u0000\u0000\u0000\u0000\u00AA\u00BA\u0000\u0000\u00AC\u0000\u0000\u0000\u00AB\u00BB",
+        "\u2591\u2592\u2593\u2502\u2524\u2561\u2562\u2556\u2555\u2563\u2551\u2557\u255D\u255C\u255B\u2510",
+        "\u2514\u2534\u252C\u251C\u2500\u253C\u255E\u255F\u255A\u2554\u2569\u2566\u2560\u2550\u256C\u2567",
+        "\u2568\u2564\u2565\u2559\u2558\u2552\u2553\u256B\u256A\u2518\u250C\u2588\u2584\u258C\u2590\u2580",
+        "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u2205\u2208\u0000",
+        "\u2261\u00B1\u2265\u2264\u2320\u2321\u00F7\u2248\u00B0\u2219\u0000\u221A\u207F\u00B2\u25A0\u0000"
+      ],
+      "file": "font/language/wynncraft.png",
+      "type": "bitmap"
+    },
+    {
+      "ascent": -28,
+      "chars": [
+        "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007\uE008\uE009"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/level.png",
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -19,
+      "chars": [
+        "\uE010\uE011\uE012\uE013\uE014\uE015\uE016\uE017\uE018\uE019",
+        "\uE01A\uE01B\uE01C\uE01D\uE01E\uE01F\u0000\u0000\u0000\u0000"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/numeric_display.png",
+      "type": "bitmap"
+    },
+    {
+      "ascent": -4,
+      "chars": [
+        "\uE00A"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/hotbar.png",
+      "height": 64,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -28,
+      "chars": [
+        "\uE020\uE021\uE022\uE023\uE024\uE025\uE026\uE027\uE028",
+        "\uE030\uE031\uE032\uE033\uE034\uE035\uE036\uE037\uE038",
+        "\uE040\uE041\uE042\uE043\uE044\uE045\uE046\uE047\uE048",
+        "\uE050\uE051\uE052\uE053\uE054\uE055\uE056\uE057\uE058"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/health_bar.png",
+      "type": "bitmap"
+    },
+    {
+      "ascent": -17,
+      "chars": [
+        "\uE029",
+        "\uE039",
+        "\uE049",
+        "\uE059",
+        "\uE069"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/health_background.png",
+      "height": 20,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -28,
+      "chars": [
+        "\uE080\uE081\uE082\uE083\uE084\uE085\uE086\uE087\uE088"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/mana_bar.png",
+      "type": "bitmap"
+    },
+    {
+      "ascent": -17,
+      "chars": [
+        "\uE089"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/mana_background.png",
+      "height": 20,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -19,
+      "chars": [
+        "\uE090\uE091\uE092\uE093\uE094\uE095\u0000\u0000\u0000\u0000",
+        "\uE0A0\uE0A1\uE0A2\uE0A3\uE0A4\uE0A5\uE0A6\uE0A7\uE0A8\uE0A9",
+        "\uE0AA\uE0AB\uE0AC\uE0AD\uE0AE\uE0AF\uE0B0\uE0B1\uE0B2\uE0B3",
+        "\uE0B4\uE0B5\uE0B6\uE0B7\uE0B8\u0000\u0000\u0000\u0000\u0000",
+        "\uE0C0\uE0C1\uE0C2\uE0C3\uE0C4\uE0C5\uE0C6\uE0C7\uE0C8\uE0C9",
+        "\uE0CA\uE0CB\uE0CC\uE0CD\uE0CE\uE0CF\uE0D0\uE0D1\uE0D2\uE0D3",
+        "\uE0D4\uE0D5\uE0D6\uE0D7\uE0D8\u0000\u0000\u0000\u0000\u0000"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/hex_meter.png",
+      "height": 27,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -19,
+      "chars": [
+        "\uE0E0\uE0E1\uE0E2\uE0E3\uE0E4"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/transition.png",
+      "height": 27,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -19,
+      "chars": [
+        "\uE0F0\uE0F1\uE0F2\uE0F3\uE0F4\uE0F5"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/transition_type.png",
+      "height": 27,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        "\uE100\uE101\uE102\uE103\uE104\uE105\uE106"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/click_combo.png",
+      "height": 16,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -37,
+      "chars": [
+        "\uE110",
+        "\uE111",
+        "\uE112",
+        "\uE113",
+        "\uE114",
+        "\uE115",
+        "\uE116",
+        "\uE117",
+        "\uE118",
+        "\uE119",
+        "\uE11A",
+        "\uE11B",
+        "\uE11C",
+        "\uE11D",
+        "\uE11E",
+        "\uE11F",
+        "\uE120",
+        "\uE121",
+        "\uE122",
+        "\uE123",
+        "\uE124",
+        "\uE125",
+        "\uE126",
+        "\uE127",
+        "\uE128",
+        "\uE129",
+        "\uE12A",
+        "\uE12B",
+        "\uE12C",
+        "\uE12D",
+        "\uE12E",
+        "\uE12F",
+        "\uE130",
+        "\uE131",
+        "\uE132",
+        "\uE133",
+        "\uE134",
+        "\uE135",
+        "\uE136",
+        "\uE137",
+        "\uE138",
+        "\uE139",
+        "\uE13A",
+        "\uE13B",
+        "\uE13C",
+        "\uE13D",
+        "\uE13E",
+        "\uE13F",
+        "\uE140",
+        "\uE141",
+        "\uE142",
+        "\uE143",
+        "\uE144"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/experience_bar.png",
+      "height": 3,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -37,
+      "chars": [
+        "\uE150",
+        "\uE151",
+        "\uE152",
+        "\uE153",
+        "\uE154",
+        "\uE155",
+        "\uE156",
+        "\uE157",
+        "\uE158",
+        "\uE159",
+        "\uE15A",
+        "\uE15B",
+        "\uE15C",
+        "\uE15D",
+        "\uE15E",
+        "\uE15F",
+        "\uE160",
+        "\uE161",
+        "\uE162",
+        "\uE163",
+        "\uE164",
+        "\uE165",
+        "\uE166",
+        "\uE167",
+        "\uE168",
+        "\uE169",
+        "\uE16A",
+        "\uE16B",
+        "\uE16C",
+        "\uE16D",
+        "\uE16E",
+        "\uE16F",
+        "\uE170",
+        "\uE171",
+        "\uE172",
+        "\uE173",
+        "\uE174",
+        "\uE175",
+        "\uE176",
+        "\uE177",
+        "\uE178",
+        "\uE179",
+        "\uE17A",
+        "\uE17B",
+        "\uE17C",
+        "\uE17D",
+        "\uE17E",
+        "\uE17F",
+        "\uE180",
+        "\uE181",
+        "\uE182",
+        "\uE183",
+        "\uE184"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/profession_bar.png",
+      "height": 3,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -9,
+      "chars": [
+        "\uE190\uE191\uE192\uE193\uE194\uE195\uE196\uE197",
+        "\uE198\uE199\uE19A\uE19B\uE19C\u0000\u0000\u0000"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/ultimate_transition.png",
+      "height": 48,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        "\uE200\uE201\uE202\uE203\uE204\uE205\uE206\uE207\uE208\uE209\uE20A\uE20B\uE20C\uE20D\uE20E\uE20F\uE210\uE211\uE212\uE213\uE214\uE215\uE216\uE217\uE218\uE219\uE21A\uE21B\uE21C\uE21D"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/ultimate_ready.png",
+      "height": 64,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -16,
+      "chars": [
+        "\uE300\uE301\uE302\uE303\uE304\uE305\uE306\uE307\uE308\uE309\uE30A\uE30B\uE30C\uE30D\uE30E\uE30F\uE310\uE311\uE312\uE313\uE314\uE315",
+        "\uE320\uE321\uE322\uE323\uE324\uE325\uE326\uE327\uE328\uE329\uE32A\uE32B\uE32C\uE32D\uE32E\uE32F\uE330\uE331\uE332\uE333\uE334\uE335",
+        "\uE340\uE341\uE342\uE343\uE344\uE345\uE346\uE347\uE348\uE349\uE34A\uE34B\uE34C\uE34D\uE34E\uE34F\uE350\uE351\uE352\uE353\uE354\uE355",
+        "\uE360\uE361\uE362\uE363\uE364\uE365\uE366\uE367\uE368\uE369\uE36A\uE36B\uE36C\uE36D\uE36E\uE36F\uE370\uE371\uE372\uE373\uE374\uE375",
+        "\uE380\uE381\uE382\uE383\uE384\uE385\uE386\uE387\uE388\uE389\uE38A\uE38B\uE38C\uE38D\uE38E\uE38F\uE390\uE391\uE392\uE393\uE394\uE395",
+        "\uE3A0\uE3A1\uE3A2\uE3A3\uE3A4\uE3A5\uE3A6\uE3A7\uE3A8\uE3A9\uE3AA\uE3AB\uE3AC\uE3AD\uE3AE\uE3AF\uE3B0\uE3B1\uE3B2\uE3B3\uE3B4\uE3B5",
+        "\uE3C0\uE3C1\uE3C2\uE3C3\uE3C4\uE3C5\uE3C6\uE3C7\uE3C8\uE3C9\uE3CA\uE3CB\uE3CC\uE3CD\uE3CE\uE3CF\uE3D0\uE3D1\uE3D2\uE3D3\uE3D4\uE3D5",
+        "\uE3E0\uE3E1\uE3E2\uE3E3\uE3E4\uE3E5\uE3E6\uE3E7\uE3E8\uE3E9\uE3EA\uE3EB\uE3EC\uE3ED\uE3EE\uE3EF\uE3F0\uE3F1\uE3F2\uE3F3\uE3F4\uE3F5",
+        "\uE400\uE401\uE402\uE403\uE404\uE405\uE406\uE407\uE408\uE409\uE40A\uE40B\uE40C\uE40D\uE40E\uE40F\uE410\uE411\uE412\uE413\uE414\uE415",
+        "\uE420\uE421\uE422\uE423\uE424\uE425\uE426\uE427\uE428\uE429\uE42A\uE42B\uE42C\uE42D\uE42E\uE42F\uE430\uE431\uE432\uE433\uE434\uE435",
+        "\uE440\uE441\uE442\uE443\uE444\uE445\uE446\uE447\uE448\uE449\uE44A\uE44B\uE44C\uE44D\uE44E\uE44F\uE450\uE451\uE452\uE453\uE454\uE455",
+        "\uE460\uE461\uE462\uE463\uE464\uE465\uE466\uE467\uE468\uE469\uE46A\uE46B\uE46C\uE46D\uE46E\uE46F\uE470\uE471\uE472\uE473\uE474\uE475",
+        "\uE480\uE481\uE482\uE483\uE484\uE485\uE486\uE487\uE488\uE489\uE48A\uE48B\uE48C\uE48D\uE48E\uE48F\uE490\uE491\uE492\uE493\uE494\uE495",
+        "\uE4A0\uE4A1\uE4A2\uE4A3\uE4A4\uE4A5\uE4A6\uE4A7\uE4A8\uE4A9\uE4AA\uE4AB\uE4AC\uE4AD\uE4AE\uE4AF\uE4B0\uE4B1\uE4B2\uE4B3\uE4B4\uE4B5",
+        "\uE4C0\uE4C1\uE4C2\uE4C3\uE4C4\uE4C5\uE4C6\uE4C7\uE4C8\uE4C9\uE4CA\uE4CB\uE4CC\uE4CD\uE4CE\uE4CF\uE4D0\uE4D1\uE4D2\uE4D3\uE4D4\uE4D5"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/ultimate_charge.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        "\uE4E0"
+      ],
+      "file": "font/tile/swap_fast.png",
+      "height": 16,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -9,
+      "chars": [
+        "\uE4F0\uE4F1\uE4F2\uE4F3\uE4F4\uE4F5\uE4F6\uE4F7\uE4F8\uE4F9\uE4FA\uE4FB\uE4FC\uE4FD\uE4FE\uE4FF\uE500\uE501\uE502\uE503\uE504\uE505\uE506\uE507\uE508\uE509\uE50A\uE50B\uE50C\uE50D\uE50E\uE50F",
+        "\uE510\uE511\uE512\uE513\uE514\uE515\uE516\uE517\uE518\uE519\uE51A\uE51B\uE51C\uE51D\uE51E\uE51F\uE520\uE521\uE522\uE523\uE524\uE525\uE526\uE527\uE528\uE529\uE52A\uE52B\uE52C\uE52D\uE52E\uE52F"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/ultimate_meter.png",
+      "height": 48,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "\uE530\uE531\uE532"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/spell.png",
+      "height": 10,
+      "type": "bitmap"
+    }
+  ]
+}

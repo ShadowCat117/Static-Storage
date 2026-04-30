@@ -1,0 +1,34 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "\uE000\uF000",
+        "\uE001\uF001",
+        "\uE002\uF002",
+        "\uE003\uF003",
+        "\uE004\uF004",
+        "\uE005\uF005",
+        "\uE006\uF006",
+        "\uE007\uF007",
+        "\uE008\uF008",
+        "\uE009\uF009",
+        "\uE00A\uF00A"
+      ],
+      "file": "font/tooltip/banner.png",
+      "height": 7,
+      "type": "bitmap"
+    }
+  ]
+}

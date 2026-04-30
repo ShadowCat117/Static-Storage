@@ -1,0 +1,69 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": -40,
+      "chars": [
+        "\uE000"
+      ],
+      "file": "font/hud/dialogue/style/default/box.png",
+      "height": 80,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 20,
+      "chars": [
+        "\uE001"
+      ],
+      "file": "font/hud/dialogue/style/default/box.png",
+      "height": 80,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 35,
+      "chars": [
+        "\uE002"
+      ],
+      "file": "font/hud/dialogue/style/default/box.png",
+      "height": 80,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 48,
+      "chars": [
+        "\uE003"
+      ],
+      "file": "font/hud/dialogue/style/default/box.png",
+      "height": 80,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 1,
+      "chars": [
+        "\u0000\uF001\u0000"
+      ],
+      "file": "font/hud/dialogue/style/default/decal.png",
+      "height": 64,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 56,
+      "chars": [
+        "\u0000\u0000\uF002"
+      ],
+      "file": "font/hud/dialogue/style/default/decal.png",
+      "height": 64,
+      "type": "bitmap"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "providers": [
+    {
+      "id": "hud/selector/default/bottom_middle",
+      "type": "reference"
+    }
+  ]
+}

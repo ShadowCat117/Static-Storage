@@ -1,1 +1,13 @@
-{"providers":[{"ascent":10,"chars":[""],"file":"font/merchant.png","height":12,"type":"bitmap"}]}
+{
+  "providers": [
+    {
+      "ascent": 10,
+      "chars": [
+        "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007\uE008\uE009\uE00A\uE00B"
+      ],
+      "file": "font/merchant.png",
+      "height": 12,
+      "type": "bitmap"
+    }
+  ]
+}

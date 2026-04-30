@@ -1,0 +1,47 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": -38,
+      "chars": [
+        "\u2014!\"#$%&'()*+,-./",
+        "0123456789:;<=>?",
+        "@ABCDEFGHIJKLMNO",
+        "PQRSTUVWXYZ[\\]^_",
+        "`abcdefghijklmno",
+        "pqrstuvwxyz{|}~\u0000"
+      ],
+      "file": "font/hud/dialogue/text/wynncraft.png",
+      "height": 128,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -32,
+      "chars": [
+        "\uE000\uE001"
+      ],
+      "file": "font/hud/dialogue/text/shift.png",
+      "height": 16,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -33,
+      "chars": [
+        "\uE010\uE011"
+      ],
+      "file": "font/hud/dialogue/text/scroll.png",
+      "height": 16,
+      "type": "bitmap"
+    }
+  ]
+}

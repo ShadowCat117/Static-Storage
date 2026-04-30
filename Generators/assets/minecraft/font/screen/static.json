@@ -1,0 +1,79 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        "\uE000": -1025
+      },
+      "type": "space"
+    },
+    {
+      "ascent": 1024,
+      "chars": [
+        "\uE001"
+      ],
+      "file": "font/screen/static/flash.png",
+      "height": 2048,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 1024,
+      "chars": [
+        "\uE002"
+      ],
+      "file": "font/screen/static/trans.png",
+      "height": 2048,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 24,
+      "chars": [
+        "\uE003"
+      ],
+      "file": "font/screen/static/death.png",
+      "height": 64,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 24,
+      "chars": [
+        "\uE004"
+      ],
+      "file": "font/screen/static/warp.png",
+      "height": 64,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 48,
+      "chars": [
+        "\uE005\uE006",
+        "\u0000\u0000"
+      ],
+      "file": "font/screen/static/wynncraft.png",
+      "height": 64,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 16,
+      "chars": [
+        "\uE007\uE008\uE009\uE00A\uE00B\uE00C\uE00D\uE00E\uE00F\uE010\uE011\uE012\uE013\uE014\uE015"
+      ],
+      "file": "font/screen/static/load.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 20,
+      "chars": [
+        "\uE016\uE017",
+        "\u0000\u0000"
+      ],
+      "file": "font/screen/static/fruma.png",
+      "height": 24,
+      "type": "bitmap"
+    }
+  ]
+}

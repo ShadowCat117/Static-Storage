@@ -1,1 +1,12 @@
-{"providers":[{"ascent":8,"chars":[""],"file":"font/currency.png","type":"bitmap"}]}
+{
+  "providers": [
+    {
+      "ascent": 8,
+      "chars": [
+        "\uE000\uE001\uE002\uE003\uE004\uE005"
+      ],
+      "file": "font/currency.png",
+      "type": "bitmap"
+    }
+  ]
+}

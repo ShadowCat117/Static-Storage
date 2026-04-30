@@ -1,1 +1,858 @@
-{"providers":[{"id":"space","type":"reference"},{"ascent":17,"chars":[""],"file":"font/interface/ability_tree/ability.png","height":256,"type":"bitmap"},{"ascent":17,"chars":[""],"file":"font/interface/ability_tree/reset.png","height":256,"type":"bitmap"},{"ascent":17,"chars":[""],"file":"font/interface/ability_tree/aspects.png","height":256,"type":"bitmap"},{"ascent":23,"chars":[""],"file":"font/interface/character_info/character_info.png","height":256,"type":"bitmap"},{"ascent":12,"chars":[""],"file":"font/interface/content_book/content_book.png","height":256,"type":"bitmap"},{"ascent":21,"chars":[""],"file":"font/interface/mastery_tome/mastery_tome.png","height":256,"type":"bitmap"},{"ascent":18,"chars":[""],"file":"font/interface/shop/shop.png","height":256,"type":"bitmap"},{"ascent":14,"chars":[""],"file":"font/interface/lootrun/start.png","height":256,"type":"bitmap"},{"ascent":18,"chars":[""],"file":"font/interface/lootrun/default.png","height":256,"type":"bitmap"},{"ascent":18,"chars":[""],"file":"font/interface/lootrun/mission.png","height":256,"type":"bitmap"},{"ascent":60,"chars":[""],"file":"font/interface/lootrun/treasure.png","height":256,"type":"bitmap"},{"ascent":17,"chars":[""],"file":"font/interface/raid/start_normal.png","height":256,"type":"bitmap"},{"ascent":17,"chars":[""],"file":"font/interface/raid/start_guild.png","height":256,"type":"bitmap"},{"ascent":101,"chars":[""],"file":"font/interface/raid/treasure_preview.png","height":256,"type":"bitmap"},{"ascent":101,"chars":[""],"file":"font/interface/raid/treasure_reward.png","height":256,"type":"bitmap"},{"ascent":26,"chars":[""],"file":"font/interface/bank/bank.png","height":256,"type":"bitmap"},{"ascent":47,"chars":[""],"file":"font/interface/trade_market/filter.png","height":256,"type":"bitmap"},{"ascent":47,"chars":[""],"file":"font/interface/trade_market/list.png","height":256,"type":"bitmap"},{"ascent":47,"chars":[""],"file":"font/interface/trade_market/order.png","height":256,"type":"bitmap"},{"ascent":47,"chars":[""],"file":"font/interface/trade_market/overview.png","height":256,"type":"bitmap"},{"ascent":47,"chars":[""],"file":"font/interface/trade_market/sell.png","height":256,"type":"bitmap"},{"ascent":47,"chars":[""],"file":"font/interface/trade_market/buy.png","height":256,"type":"bitmap"},{"ascent":17,"chars":[""],"file":"font/interface/blacksmith/sell.png","height":256,"type":"bitmap"},{"ascent":17,"chars":[""],"file":"font/interface/blacksmith/repair.png","height":256,"type":"bitmap"},{"ascent":17,"chars":[""],"file":"font/interface/item_identifier/identify.png","height":256,"type":"bitmap"},{"ascent":17,"chars":[""],"file":"font/interface/item_identifier/augment.png","height":256,"type":"bitmap"},{"ascent":17,"chars":[""],"file":"font/interface/powder_master/infuse.png","height":256,"type":"bitmap"},{"ascent":17,"chars":[""],"file":"font/interface/powder_master/remove.png","height":256,"type":"bitmap"},{"ascent":17,"chars":[""],"file":"font/interface/powder_master/upgrade.png","height":256,"type":"bitmap"},{"ascent":64,"chars":[""],"file":"font/interface/update/rekindled/beta.png","height":256,"type":"bitmap"},{"ascent":64,"chars":[""],"file":"font/interface/update/rekindled/release.png","height":256,"type":"bitmap"},{"ascent":42,"chars":[""],"file":"font/interface/character_select/select.png","height":256,"type":"bitmap"},{"ascent":35,"chars":[""],"file":"font/interface/character_select/customize.png","height":256,"type":"bitmap"},{"ascent":20,"chars":[""],"file":"font/interface/character_select/cancel.png","height":256,"type":"bitmap"},{"ascent":41,"chars":[""],"file":"font/interface/character_select/backups.png","height":256,"type":"bitmap"},{"ascent":45,"chars":[""],"file":"font/interface/character_select/icon.png","height":256,"type":"bitmap"},{"ascent":41,"chars":[""],"file":"font/interface/character_select/delete.png","height":256,"type":"bitmap"},{"ascent":20,"chars":[""],"file":"font/interface/character_select/create.png","height":256,"type":"bitmap"},{"ascent":41,"chars":[""],"file":"font/interface/character_select/gamemode.png","height":256,"type":"bitmap"},{"ascent":64,"chars":[""],"file":"font/interface/event/blizzard/join.png","height":256,"type":"bitmap"},{"ascent":28,"chars":[""],"file":"font/interface/scavenger/merchant.png","height":256,"type":"bitmap"},{"ascent":27,"chars":[""],"file":"font/interface/scavenger/tinker.png","height":256,"type":"bitmap"},{"ascent":64,"chars":[""],"file":"font/interface/account_link/code.png","height":256,"type":"bitmap"},{"ascent":64,"chars":[""],"file":"font/interface/event/heroes/join.png","height":256,"type":"bitmap"},{"ascent":24,"chars":[""],"file":"font/interface/store/front.png","height":256,"type":"bitmap"},{"ascent":24,"chars":[""],"file":"font/interface/store/shop.png","height":256,"type":"bitmap"},{"ascent":24,"chars":[""],"file":"font/interface/store/item.png","height":256,"type":"bitmap"},{"ascent":24,"chars":[""],"file":"font/interface/store/item_2.png","height":256,"type":"bitmap"},{"ascent":24,"chars":[""],"file":"font/interface/store/item_3.png","height":256,"type":"bitmap"},{"ascent":24,"chars":[""],"file":"font/interface/store/item_full.png","height":256,"type":"bitmap"},{"ascent":22,"chars":[""],"file":"font/interface/store/task.png","height":256,"type":"bitmap"},{"ascent":22,"chars":[""],"file":"font/interface/store/sell.png","height":256,"type":"bitmap"},{"ascent":22,"chars":[""],"file":"font/interface/store/stash.png","height":256,"type":"bitmap"},{"ascent":56,"chars":[""],"file":"font/interface/store/scrap_select.png","height":256,"type":"bitmap"},{"ascent":56,"chars":[""],"file":"font/interface/store/scrap_reward.png","height":256,"type":"bitmap"},{"ascent":38,"chars":[""],"file":"font/interface/store/wardrobe.png","height":256,"type":"bitmap"},{"ascent":24,"chars":[""],"file":"font/interface/store/checkout.png","height":256,"type":"bitmap"},{"ascent":18,"chars":[""],"file":"font/interface/lootrun/trial.png","height":256,"type":"bitmap"},{"ascent":64,"chars":[""],"file":"font/interface/event/bonfire/join.png","height":256,"type":"bitmap"},{"ascent":39,"chars":[""],"file":"font/interface/party_finder/create.png","height":256,"type":"bitmap"},{"ascent":39,"chars":[""],"file":"font/interface/party_finder/join.png","height":256,"type":"bitmap"},{"ascent":39,"chars":[""],"file":"font/interface/party_finder/queue.png","height":256,"type":"bitmap"},{"ascent":39,"chars":[""],"file":"font/interface/party_finder/search.png","height":256,"type":"bitmap"},{"ascent":64,"chars":["","","","","","","","","","","","","","","","",""],"file":"font/interface/party_finder/match_found.png","height":256,"type":"bitmap"},{"ascent":64,"chars":[""],"file":"font/interface/event/spirits/join.png","height":256,"type":"bitmap"},{"ascent":13,"chars":[""],"file":"font/interface/crafting/station.png","height":256,"type":"bitmap"},{"ascent":30,"chars":[""],"file":"font/interface/fruman_underground/map.png","height":256,"type":"bitmap"},{"ascent":16,"chars":[""],"file":"font/interface/lootrun/inspect.png","height":256,"type":"bitmap"},{"ascent":64,"chars":[""],"file":"font/interface/update/fruma/info.png","height":256,"type":"bitmap"},{"ascent":17,"chars":[""],"file":"font/interface/ability_tree/ultimate.png","height":256,"type":"bitmap"},{"ascent":18,"chars":[""],"file":"font/interface/mount/feeder.png","height":256,"type":"bitmap"},{"ascent":64,"chars":[""],"file":"font/interface/update/fruma/beta.png","height":256,"type":"bitmap"},{"ascent":16,"chars":[""],"file":"font/interface/lootrun/boon.png","height":256,"type":"bitmap"},{"ascent":25,"chars":[""],"file":"font/interface/item_upgrader/upgrader.png","height":256,"type":"bitmap"},{"ascent":29,"chars":[""],"file":"font/interface/item_upgrader/equipment.png","height":256,"type":"bitmap"},{"ascent":25,"chars":[""],"file":"font/interface/item_upgrader/pouch.png","height":256,"type":"bitmap"},{"ascent":25,"chars":[""],"file":"font/interface/item_upgrader/powder_upgrade.png","height":256,"type":"bitmap"},{"ascent":25,"chars":[""],"file":"font/interface/item_upgrader/powder_remove.png","height":256,"type":"bitmap"},{"ascent":64,"chars":[""],"file":"font/interface/update/fruma/release.png","height":256,"type":"bitmap"},{"ascent":32,"chars":["","","","","",""],"file":"font/interface/bank/title.png","height":32,"type":"bitmap"},{"ascent":48,"chars":["","","","","","",""],"file":"font/interface/lootrun/title_treasure.png","height":48,"type":"bitmap"},{"ascent":48,"chars":["","","","",""],"file":"font/interface/raid/title.png","height":48,"type":"bitmap"},{"ascent":32,"chars":["","","","","","","","","","\u0000\u0000"],"file":"font/interface/store/title.png","height":32,"type":"bitmap"},{"ascent":24,"chars":["","","","","",""],"file":"font/interface/lootrun/title.png","height":32,"type":"bitmap"},{"ascent":56,"chars":["","","","","","","","","","",""],"file":"font/interface/store/scrap.png","height":128,"type":"bitmap"},{"ascent":56,"chars":["","","","","",""],"file":"font/interface/store/scrap_transition.png","height":256,"type":"bitmap"},{"ascent":24,"chars":["","","","","","","",""],"file":"font/interface/crafting/title.png","height":32,"type":"bitmap"}]}
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "\uE000"
+      ],
+      "file": "font/interface/ability_tree/ability.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "\uE001"
+      ],
+      "file": "font/interface/ability_tree/reset.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "\uE002"
+      ],
+      "file": "font/interface/ability_tree/aspects.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 23,
+      "chars": [
+        "\uE003"
+      ],
+      "file": "font/interface/character_info/character_info.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        "\uE004"
+      ],
+      "file": "font/interface/content_book/content_book.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 21,
+      "chars": [
+        "\uE005"
+      ],
+      "file": "font/interface/mastery_tome/mastery_tome.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 18,
+      "chars": [
+        "\uE006"
+      ],
+      "file": "font/interface/shop/shop.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 14,
+      "chars": [
+        "\uE007"
+      ],
+      "file": "font/interface/lootrun/start.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 18,
+      "chars": [
+        "\uE008"
+      ],
+      "file": "font/interface/lootrun/default.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 18,
+      "chars": [
+        "\uE009"
+      ],
+      "file": "font/interface/lootrun/mission.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 60,
+      "chars": [
+        "\uE00A"
+      ],
+      "file": "font/interface/lootrun/treasure.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "\uE00B"
+      ],
+      "file": "font/interface/raid/start_normal.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "\uE00C"
+      ],
+      "file": "font/interface/raid/start_guild.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 101,
+      "chars": [
+        "\uE00D"
+      ],
+      "file": "font/interface/raid/treasure_preview.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 101,
+      "chars": [
+        "\uE00E"
+      ],
+      "file": "font/interface/raid/treasure_reward.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 26,
+      "chars": [
+        "\uE00F"
+      ],
+      "file": "font/interface/bank/bank.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 47,
+      "chars": [
+        "\uE010"
+      ],
+      "file": "font/interface/trade_market/filter.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 47,
+      "chars": [
+        "\uE011"
+      ],
+      "file": "font/interface/trade_market/list.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 47,
+      "chars": [
+        "\uE012"
+      ],
+      "file": "font/interface/trade_market/order.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 47,
+      "chars": [
+        "\uE013"
+      ],
+      "file": "font/interface/trade_market/overview.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 47,
+      "chars": [
+        "\uE014"
+      ],
+      "file": "font/interface/trade_market/sell.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 47,
+      "chars": [
+        "\uE015"
+      ],
+      "file": "font/interface/trade_market/buy.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "\uE016"
+      ],
+      "file": "font/interface/blacksmith/sell.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "\uE017"
+      ],
+      "file": "font/interface/blacksmith/repair.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "\uE018"
+      ],
+      "file": "font/interface/item_identifier/identify.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "\uE019"
+      ],
+      "file": "font/interface/item_identifier/augment.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "\uE01A"
+      ],
+      "file": "font/interface/powder_master/infuse.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "\uE01B"
+      ],
+      "file": "font/interface/powder_master/remove.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "\uE01C"
+      ],
+      "file": "font/interface/powder_master/upgrade.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 64,
+      "chars": [
+        "\uE01D"
+      ],
+      "file": "font/interface/update/rekindled/beta.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 64,
+      "chars": [
+        "\uE01E"
+      ],
+      "file": "font/interface/update/rekindled/release.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 42,
+      "chars": [
+        "\uE01F"
+      ],
+      "file": "font/interface/character_select/select.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 35,
+      "chars": [
+        "\uE020"
+      ],
+      "file": "font/interface/character_select/customize.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 20,
+      "chars": [
+        "\uE021"
+      ],
+      "file": "font/interface/character_select/cancel.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 41,
+      "chars": [
+        "\uE022"
+      ],
+      "file": "font/interface/character_select/backups.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 45,
+      "chars": [
+        "\uE023"
+      ],
+      "file": "font/interface/character_select/icon.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 41,
+      "chars": [
+        "\uE024"
+      ],
+      "file": "font/interface/character_select/delete.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 20,
+      "chars": [
+        "\uE025"
+      ],
+      "file": "font/interface/character_select/create.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 41,
+      "chars": [
+        "\uE026"
+      ],
+      "file": "font/interface/character_select/gamemode.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 64,
+      "chars": [
+        "\uE027"
+      ],
+      "file": "font/interface/event/blizzard/join.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 28,
+      "chars": [
+        "\uE028"
+      ],
+      "file": "font/interface/scavenger/merchant.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 27,
+      "chars": [
+        "\uE029"
+      ],
+      "file": "font/interface/scavenger/tinker.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 64,
+      "chars": [
+        "\uE02A"
+      ],
+      "file": "font/interface/account_link/code.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 64,
+      "chars": [
+        "\uE02B"
+      ],
+      "file": "font/interface/event/heroes/join.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 24,
+      "chars": [
+        "\uE02C"
+      ],
+      "file": "font/interface/store/front.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 24,
+      "chars": [
+        "\uE02D"
+      ],
+      "file": "font/interface/store/shop.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 24,
+      "chars": [
+        "\uE030"
+      ],
+      "file": "font/interface/store/item.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 24,
+      "chars": [
+        "\uE031"
+      ],
+      "file": "font/interface/store/item_2.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 24,
+      "chars": [
+        "\uE032"
+      ],
+      "file": "font/interface/store/item_3.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 24,
+      "chars": [
+        "\uE033"
+      ],
+      "file": "font/interface/store/item_full.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 22,
+      "chars": [
+        "\uE034"
+      ],
+      "file": "font/interface/store/task.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 22,
+      "chars": [
+        "\uE035"
+      ],
+      "file": "font/interface/store/sell.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 22,
+      "chars": [
+        "\uE036"
+      ],
+      "file": "font/interface/store/stash.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 56,
+      "chars": [
+        "\uE037"
+      ],
+      "file": "font/interface/store/scrap_select.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 56,
+      "chars": [
+        "\uE038"
+      ],
+      "file": "font/interface/store/scrap_reward.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 38,
+      "chars": [
+        "\uE039"
+      ],
+      "file": "font/interface/store/wardrobe.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 24,
+      "chars": [
+        "\uE03A"
+      ],
+      "file": "font/interface/store/checkout.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 18,
+      "chars": [
+        "\uE03B"
+      ],
+      "file": "font/interface/lootrun/trial.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 64,
+      "chars": [
+        "\uE03C"
+      ],
+      "file": "font/interface/event/bonfire/join.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 39,
+      "chars": [
+        "\uE03D"
+      ],
+      "file": "font/interface/party_finder/create.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 39,
+      "chars": [
+        "\uE03E"
+      ],
+      "file": "font/interface/party_finder/join.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 39,
+      "chars": [
+        "\uE03F"
+      ],
+      "file": "font/interface/party_finder/queue.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 39,
+      "chars": [
+        "\uE040"
+      ],
+      "file": "font/interface/party_finder/search.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 64,
+      "chars": [
+        "\uE041",
+        "\uE042",
+        "\uE043",
+        "\uE044",
+        "\uE045",
+        "\uE046",
+        "\uE047",
+        "\uE048",
+        "\uE049",
+        "\uE04A",
+        "\uE04B",
+        "\uE04C",
+        "\uE04D",
+        "\uE04E",
+        "\uE04F",
+        "\uE050",
+        "\uE051"
+      ],
+      "file": "font/interface/party_finder/match_found.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 64,
+      "chars": [
+        "\uE052"
+      ],
+      "file": "font/interface/event/spirits/join.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 13,
+      "chars": [
+        "\uE053"
+      ],
+      "file": "font/interface/crafting/station.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 30,
+      "chars": [
+        "\uE054"
+      ],
+      "file": "font/interface/fruman_underground/map.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 16,
+      "chars": [
+        "\uE055"
+      ],
+      "file": "font/interface/lootrun/inspect.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 64,
+      "chars": [
+        "\uE056"
+      ],
+      "file": "font/interface/update/fruma/info.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "\uE057"
+      ],
+      "file": "font/interface/ability_tree/ultimate.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 18,
+      "chars": [
+        "\uE058"
+      ],
+      "file": "font/interface/mount/feeder.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 64,
+      "chars": [
+        "\uE059"
+      ],
+      "file": "font/interface/update/fruma/beta.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 16,
+      "chars": [
+        "\uE05A"
+      ],
+      "file": "font/interface/lootrun/boon.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 25,
+      "chars": [
+        "\uE05B"
+      ],
+      "file": "font/interface/item_upgrader/upgrader.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 29,
+      "chars": [
+        "\uE05C"
+      ],
+      "file": "font/interface/item_upgrader/equipment.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 25,
+      "chars": [
+        "\uE05D"
+      ],
+      "file": "font/interface/item_upgrader/pouch.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 25,
+      "chars": [
+        "\uE05E"
+      ],
+      "file": "font/interface/item_upgrader/powder_upgrade.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 25,
+      "chars": [
+        "\uE05F"
+      ],
+      "file": "font/interface/item_upgrader/powder_remove.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 64,
+      "chars": [
+        "\uE060"
+      ],
+      "file": "font/interface/update/fruma/release.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 32,
+      "chars": [
+        "\uF000",
+        "\uF001",
+        "\uF002",
+        "\uF003",
+        "\uF004",
+        "\uF005"
+      ],
+      "file": "font/interface/bank/title.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 48,
+      "chars": [
+        "\uF006",
+        "\uF007",
+        "\uF008",
+        "\uF009",
+        "\uF00A",
+        "\uF049",
+        "\uF04A"
+      ],
+      "file": "font/interface/lootrun/title_treasure.png",
+      "height": 48,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 48,
+      "chars": [
+        "\uF00B",
+        "\uF00C",
+        "\uF00D",
+        "\uF00E",
+        "\uF04B"
+      ],
+      "file": "font/interface/raid/title.png",
+      "height": 48,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 32,
+      "chars": [
+        "\uF00F\uF010\uF011",
+        "\uF012\uF013\uF014",
+        "\uF015\uF016\uF017",
+        "\uF018\uF019\uF01A",
+        "\uF01B\uF01C\uF01D",
+        "\uF01E\uF01F\uF020",
+        "\uF021\uF022\uF023",
+        "\uF024\uF025\uF026",
+        "\uF027\uF028\uF029",
+        "\uF04C\u0000\u0000"
+      ],
+      "file": "font/interface/store/title.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 24,
+      "chars": [
+        "\uF02A",
+        "\uF02B",
+        "\uF02C",
+        "\uF02D",
+        "\uF02E",
+        "\uF02F"
+      ],
+      "file": "font/interface/lootrun/title.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 56,
+      "chars": [
+        "\uF030",
+        "\uF031",
+        "\uF032",
+        "\uF033",
+        "\uF034",
+        "\uF035",
+        "\uF036",
+        "\uF037",
+        "\uF038",
+        "\uF039",
+        "\uF03A"
+      ],
+      "file": "font/interface/store/scrap.png",
+      "height": 128,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 56,
+      "chars": [
+        "\uF03B",
+        "\uF03C",
+        "\uF03D",
+        "\uF03E",
+        "\uF03F",
+        "\uF040"
+      ],
+      "file": "font/interface/store/scrap_transition.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 24,
+      "chars": [
+        "\uF041",
+        "\uF042",
+        "\uF043",
+        "\uF044",
+        "\uF045",
+        "\uF046",
+        "\uF047",
+        "\uF048"
+      ],
+      "file": "font/interface/crafting/title.png",
+      "height": 32,
+      "type": "bitmap"
+    }
+  ]
+}

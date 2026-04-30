@@ -1,0 +1,29 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": 34,
+      "chars": [
+        "\u2014!\"#$%&'()*+,-./",
+        "0123456789:;<=>?",
+        "@ABCDEFGHIJKLMNO",
+        "PQRSTU\uE000\uE001\uE002\uE003\uE004[\\]^_",
+        "`abcdefghijklmno",
+        "pqrstuvwxyz{|}~\u0000"
+      ],
+      "file": "font/hud/dialogue/text/old_fruman.png",
+      "height": 128,
+      "type": "bitmap"
+    }
+  ]
+}

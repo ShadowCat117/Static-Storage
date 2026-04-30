@@ -1,0 +1,1 @@
+{"display":{"firstperson_righthand":{"rotation":[0,135,0],"scale":[0.4,0.4,0.4],"translation":[0,0,0]}},"parent":"block/cube","textures":{"down":"#bottom","east":"#side","north":"#front","particle":"#front","south":"#side","up":"#top","west":"#side"}}

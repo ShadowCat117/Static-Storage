@@ -1,0 +1,205 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": -2048,
+      "chars": [
+        "\u0001"
+      ],
+      "file": "font/hud/selector/default/center_right/marker.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -10,
+      "chars": [
+        "ABCDEFGHIJKLMNOP",
+        "QRSTUVWXYZ01234_",
+        "abcdefghijklmnop",
+        "qrstuvwxyz56789\u0000"
+      ],
+      "file": "font/hud/selector/default/center_right/wynncraft_outline_condensed.png",
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE000"
+      ],
+      "file": "font/hud/selector/default/center_right/card_archer.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE001"
+      ],
+      "file": "font/hud/selector/default/center_right/card_assassin.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE002"
+      ],
+      "file": "font/hud/selector/default/center_right/card_mage.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE003"
+      ],
+      "file": "font/hud/selector/default/center_right/card_shaman.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE004"
+      ],
+      "file": "font/hud/selector/default/center_right/card_warrior.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE005"
+      ],
+      "file": "font/hud/selector/default/center_right/card_hunter.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE006"
+      ],
+      "file": "font/hud/selector/default/center_right/card_ninja.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE007"
+      ],
+      "file": "font/hud/selector/default/center_right/card_dark_wizard.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE008"
+      ],
+      "file": "font/hud/selector/default/center_right/card_skyseer.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE009"
+      ],
+      "file": "font/hud/selector/default/center_right/card_knight.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE00A"
+      ],
+      "file": "font/hud/selector/default/center_right/card_archer_create.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE00B"
+      ],
+      "file": "font/hud/selector/default/center_right/card_assassin_create.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE00C"
+      ],
+      "file": "font/hud/selector/default/center_right/card_mage_create.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE00D"
+      ],
+      "file": "font/hud/selector/default/center_right/card_shaman_create.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 0,
+      "chars": [
+        "\uE00E"
+      ],
+      "file": "font/hud/selector/default/center_right/card_warrior_create.png",
+      "height": 192,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -118,
+      "chars": [
+        "\uE020\uE021\uE022\uE023\uE024",
+        "\uE025\uE026\uE027\uE028\uE029"
+      ],
+      "file": "font/hud/selector/default/center_right/gamemode.png",
+      "height": 20,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -10,
+      "chars": [
+        "\uE030\uE031\uE032\uE033\uE034\uE035\uE036\uE037\uE038\uE039"
+      ],
+      "file": "font/hud/gameplay/default/bottom_middle/level.png",
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -105,
+      "chars": [
+        "\uE040\uE041\uE042\uE043\uE044\uE045\uE046\uE047\uE048"
+      ],
+      "file": "font/hud/selector/default/center_right/progress.png",
+      "type": "bitmap"
+    },
+    {
+      "ascent": -96,
+      "chars": [
+        "\uE050"
+      ],
+      "file": "font/hud/selector/default/center_right/completion.png",
+      "type": "bitmap"
+    }
+  ]
+}

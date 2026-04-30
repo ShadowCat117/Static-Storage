@@ -1,0 +1,19 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "id": "screen/transition",
+      "type": "reference"
+    }
+  ]
+}

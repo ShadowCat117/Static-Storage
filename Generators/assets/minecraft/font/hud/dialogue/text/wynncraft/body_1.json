@@ -1,0 +1,39 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": 22,
+      "chars": [
+        "\u2014!\"#$%&'()*+,-./",
+        "0123456789:;<=>?",
+        "@ABCDEFGHIJKLMNO",
+        "PQRSTUVWXYZ[\\]^_",
+        "`abcdefghijklmno",
+        "pqrstuvwxyz{|}~\u0000"
+      ],
+      "file": "font/hud/dialogue/text/wynncraft.png",
+      "height": 128,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 25,
+      "chars": [
+        "\u00C0\u00C1\u00C2\u00C3\u00C4\u00C5\u00C6\u00C7\u00C8\u00C9\u00CA\u00CB\u00CC\u00CD\u00CE\u00CF",
+        "\u00E0\u00E1\u00E2\u00E3\u00E4\u00E5\u00E6\u00E7\u00E8\u00E9\u00EA\u00EB\u00EC\u00ED\u00EE\u00EF"
+      ],
+      "file": "font/hud/dialogue/text/latin.png",
+      "height": 128,
+      "type": "bitmap"
+    }
+  ]
+}

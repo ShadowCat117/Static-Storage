@@ -1,0 +1,60 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": -24,
+      "chars": [
+        "\uE000"
+      ],
+      "file": "font/hud/dialogue/style/fruma/box.png",
+      "height": 112,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 36,
+      "chars": [
+        "\uE001"
+      ],
+      "file": "font/hud/dialogue/style/fruma/box.png",
+      "height": 112,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 51,
+      "chars": [
+        "\uE002"
+      ],
+      "file": "font/hud/dialogue/style/fruma/box.png",
+      "height": 112,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 64,
+      "chars": [
+        "\uE003"
+      ],
+      "file": "font/hud/dialogue/style/fruma/box.png",
+      "height": 112,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 13,
+      "chars": [
+        "\uF000"
+      ],
+      "file": "font/hud/dialogue/style/fruma/decal.png",
+      "height": 96,
+      "type": "bitmap"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "ascent": 8,
+      "chars": [
+        "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007"
+      ],
+      "file": "font/event/blizzard/minigame/class.png",
+      "height": 10,
+      "type": "bitmap"
+    }
+  ]
+}

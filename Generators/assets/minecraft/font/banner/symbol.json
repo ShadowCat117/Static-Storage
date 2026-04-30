@@ -1,0 +1,34 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": -4096,
+      "chars": [
+        "\uF000"
+      ],
+      "file": "font/banner/filler.png",
+      "height": 1,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "\uE000\u0000\u0000",
+        "\uE001\u0000\u0000",
+        "\uE060\uE061\uE062"
+      ],
+      "file": "font/banner/symbol.png",
+      "type": "bitmap"
+    }
+  ]
+}

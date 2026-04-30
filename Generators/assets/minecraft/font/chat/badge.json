@@ -1,0 +1,21 @@
+{
+  "providers": [
+    {
+      "ascent": 7,
+      "chars": [
+        "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007\uE008\uE009"
+      ],
+      "file": "font/chat/badge.png",
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "\uE00A"
+      ],
+      "file": "font/chat/sb.png",
+      "height": 7,
+      "type": "bitmap"
+    }
+  ]
+}

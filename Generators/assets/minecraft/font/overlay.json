@@ -1,1 +1,13 @@
-{"providers":[{"ascent":93,"chars":[""],"file":"font/overlay/pause.png","height":256,"type":"bitmap"}]}
+{
+  "providers": [
+    {
+      "ascent": 93,
+      "chars": [
+        "\uE086"
+      ],
+      "file": "font/overlay/pause.png",
+      "height": 256,
+      "type": "bitmap"
+    }
+  ]
+}

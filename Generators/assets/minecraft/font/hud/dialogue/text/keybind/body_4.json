@@ -1,0 +1,25 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": -10,
+      "chars": [
+        "\uF000\uF001\uF002\uF003\uF004\uF005\uF006\uF007\uF008\uF009\uF00A\uF00B\uF00C\uF00D\uF00E\uF00F\uF010\uF011\uF012\uF013\uF014\uF015\uF016",
+        "\u0000\u0000\u0000\uF103\uF104\uF105\uF106\uF107\uF108\uF109\uF10A\uF10B\uF10C\uF10D\uF10E\uF10F\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      ],
+      "file": "font/hud/dialogue/text/keybind.png",
+      "height": 256,
+      "type": "bitmap"
+    }
+  ]
+}

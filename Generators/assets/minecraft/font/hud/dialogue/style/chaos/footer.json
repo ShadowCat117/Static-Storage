@@ -1,0 +1,24 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": -32,
+      "chars": [
+        "\uE000"
+      ],
+      "file": "font/hud/dialogue/style/chaos/footer.png",
+      "height": 18,
+      "type": "bitmap"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"display":{"head":{"rotation":[10,0,0],"scale":[1.95,1.95,1.95],"translation":[0,19,3]}},"elements":[{"faces":{"down":{"texture":"#0","tintindex":0,"uv":[0,0,14,14]},"up":{"texture":"#0","tintindex":0,"uv":[0,0,14,14]}},"from":[1,4,1],"to":[15,4.01,15]}],"parent":"item/wynn/template/hat","textures":{"0":"skins/frostbound_halo","particle":"skins/frostbound_halo"}}

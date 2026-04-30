@@ -1,0 +1,33 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": 56,
+      "chars": [
+        "\uE000"
+      ],
+      "file": "font/hud/dialogue/style/default/frame.png",
+      "height": 80,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 12,
+      "chars": [
+        "\uF000\u0000\u0000"
+      ],
+      "file": "font/hud/dialogue/style/default/decal.png",
+      "height": 64,
+      "type": "bitmap"
+    }
+  ]
+}

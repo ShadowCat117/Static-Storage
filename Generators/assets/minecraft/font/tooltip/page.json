@@ -1,0 +1,24 @@
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "advances": {
+        " ": 4,
+        "\u200C": 0
+      },
+      "type": "space"
+    },
+    {
+      "ascent": -4,
+      "chars": [
+        "\uE000"
+      ],
+      "file": "font/tooltip/page.png",
+      "height": 4,
+      "type": "bitmap"
+    }
+  ]
+}

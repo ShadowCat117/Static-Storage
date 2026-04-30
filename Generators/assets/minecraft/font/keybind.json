@@ -1,1 +1,39 @@
-{"providers":[{"id":"space","type":"reference"},{"ascent":8,"chars":["\u0000","\u0000","\u0000","","","","","","","","","","","","","","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000"],"file":"font/keybind.png","height":10,"type":"bitmap"}]}
+{
+  "providers": [
+    {
+      "id": "space",
+      "type": "reference"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "\uF000\u0000",
+        "\uF001\u0000",
+        "\uF002\u0000",
+        "\uF003\uF103",
+        "\uF004\uF104",
+        "\uF005\uF105",
+        "\uF006\uF106",
+        "\uF007\uF107",
+        "\uF008\uF108",
+        "\uF009\uF109",
+        "\uF00A\uF10A",
+        "\uF00B\uF10B",
+        "\uF00C\uF10C",
+        "\uF00D\uF10D",
+        "\uF00E\uF10E",
+        "\uF00F\uF10F",
+        "\uF010\u0000",
+        "\uF011\u0000",
+        "\uF012\u0000",
+        "\uF013\u0000",
+        "\uF014\u0000",
+        "\uF015\u0000",
+        "\uF016\u0000"
+      ],
+      "file": "font/keybind.png",
+      "height": 10,
+      "type": "bitmap"
+    }
+  ]
+}
